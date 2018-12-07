@@ -1,0 +1,3350 @@
+<?xml version="1.0"?>
+<root ptr="0x43af8e0" id="0" symbol="11SwRootFrame" lower="1">
+ <shells>
+  <swCursorShell>
+   <swViewShell/>
+   <m_pCurrentCursor>
+    <swPaM>
+     <point>
+      <swPosition nNode="360" nContent="0"/>
+     </point>
+    </swPaM>
+   </m_pCurrentCursor>
+  </swCursorShell>
+ </shells>
+ <infos>
+  <bounds left="284" top="284" width="12240" height="80336"/>
+  <prtBounds left="0" top="0" width="12240" height="80336"/>
+ </infos>
+ <page ptr="0x7fbf4012d000" id="1" symbol="11SwPageFrame" next="372" upper="0" lower="2">
+  <infos>
+   <bounds left="284" top="284" width="12240" height="15840"/>
+   <prtBounds left="720" top="270" width="10800" height="15480"/>
+  </infos>
+  <body ptr="0x7fbf4012f000" id="2" symbol="11SwBodyFrame" upper="1" lower="3">
+   <infos>
+    <bounds left="1004" top="554" width="10800" height="15480"/>
+    <prtBounds left="0" top="0" width="10800" height="15480"/>
+   </infos>
+   <txt ptr="0x7fbf40130000" id="3" symbol="11SwTextFrame" next="4" upper="2" txtNodeIndex="360">
+    <infos>
+     <bounds left="1004" top="554" width="10800" height="256"/>
+     <prtBounds left="0" top="0" width="10800" height="256"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7fbf40130108" id="4" symbol="11SwTextFrame" next="5" prev="3" upper="2" txtNodeIndex="361">
+    <infos>
+     <bounds left="1004" top="810" width="10800" height="611"/>
+     <prtBounds left="0" top="238" width="10800" height="373"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <tab ptr="0x7fbf40131000" id="5" symbol="10SwTabFrame" next="47" prev="4" upper="2" lower="6">
+    <infos>
+     <bounds left="1004" top="1421" width="10800" height="13816"/>
+     <prtBounds left="-113" top="255" width="11026" height="13551"/>
+    </infos>
+    <row ptr="0x7fbf40112000" id="6" symbol="10SwRowFrame" next="21" upper="5" lower="7">
+     <infos>
+      <bounds left="891" top="1676" width="11026" height="4590"/>
+      <prtBounds left="0" top="0" width="11026" height="4590"/>
+     </infos>
+     <cell ptr="0x7fbf40113000" id="7" symbol="11SwCellFrame" next="13" upper="6" lower="8">
+      <infos>
+       <bounds left="891" top="1676" width="2754" height="4590"/>
+       <prtBounds left="108" top="10" width="2538" height="4580"/>
+      </infos>
+      <txt ptr="0x7fbf40130210" id="8" symbol="11SwTextFrame" next="9" upper="7" txtNodeIndex="364">
+       <infos>
+        <bounds left="999" top="1686" width="2538" height="3556"/>
+        <prtBounds left="0" top="0" width="2538" height="3556"/>
+       </infos>
+       <anchored>
+        <SwAnchoredDrawObject ptr="0x40dc720">
+         <bounds left="1014" top="1685" width="2507" height="3557"/>
+         <sdrObjGroup ptr="0x40d05d0">
+          <sdrObject ptr="0x40d05d0" symbol="11SdrObjGroup" name="" title="" description="" nOrdNum="0" aOutRect="1014, 1685, 2506, 3556"/>
+          <sdrObjList ptr="0x40d60e0" symbol="10SdrObjList">
+           <sdrObject ptr="0x40d6ca0" symbol="10SdrRectObj" name="" title="" description="" nOrdNum="0" aOutRect="1015, 1686, 2505, 3555"/>
+           <sdrObject ptr="0x40e0ea0" symbol="17SdrObjCustomShape" name="" title="" description="" nOrdNum="1" aOutRect="1014, 1685, 2504, 3552"/>
+           <sdrObject ptr="0x40fe030" symbol="17SdrObjCustomShape" name="" title="" description="" nOrdNum="2" aOutRect="1055, 1742, 2427, 3457"/>
+           <sdrObject ptr="0x4103cd0" symbol="17SdrObjCustomShape" name="" title="" description="" nOrdNum="3" aOutRect="1169, 1859, 195, 350"/>
+           <sdrObject ptr="0x410a730" symbol="17SdrObjCustomShape" name="" title="" description="" nOrdNum="4" aOutRect="3185, 4727, 197, 351"/>
+           <sdrObject ptr="0x4111390" symbol="17SdrObjCustomShape" name="" title="" description="" nOrdNum="5" aOutRect="1131, 2302, 240, 226"/>
+           <sdrObject ptr="0x4117b80" symbol="17SdrObjCustomShape" name="" title="" description="" nOrdNum="6" aOutRect="3144, 4404, 241, 228"/>
+           <sdrObject ptr="0x40d6980" symbol="17SdrObjCustomShape" name="" title="" description="" nOrdNum="7" aOutRect="1966, 1976, 594, 558"/>
+           <sdrObject ptr="0x4125370" symbol="17SdrObjCustomShape" name="" title="" description="" nOrdNum="8" aOutRect="1966, 4325, 596, 563"/>
+          </sdrObjList>
+         </sdrObjGroup>
+        </SwAnchoredDrawObject>
+       </anchored>
+*       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="16"/>
+       <Special nLength="1" nType="POR_FLYCNT" rText="" nHeight="3556" nWidth="2506"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="17"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40130318" id="9" symbol="11SwTextFrame" next="10" prev="8" upper="7" txtNodeIndex="365">
+       <infos>
+        <bounds left="999" top="5242" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43b39f0" id="226" symbol="19SwFlyAtContentFrame" lower="227">
+         <infos>
+          <bounds left="974" top="5261" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf4011edb0" id="227" symbol="11SwTextFrame" upper="226" txtNodeIndex="6">
+          <infos>
+           <bounds left="1138" top="5353" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1106"/>
+          <Text nLength="0" nType="POR_TXT" nHeight="256"/>
+          <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1107"/>
+          <LineBreak nWidth="2213"/>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1269"/>
+       <Text nLength="0" nType="POR_TXT" nHeight="256"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1270"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40130420" id="10" symbol="11SwTextFrame" next="11" prev="9" upper="7" txtNodeIndex="366">
+       <infos>
+        <bounds left="999" top="5498" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1269"/>
+       <Text nLength="0" nType="POR_TXT" nHeight="256"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1270"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40130528" id="11" symbol="11SwTextFrame" next="12" prev="10" upper="7" txtNodeIndex="367">
+       <infos>
+        <bounds left="999" top="5754" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1269"/>
+       <Text nLength="0" nType="POR_TXT" nHeight="256"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1270"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40130630" id="12" symbol="11SwTextFrame" prev="11" upper="7" txtNodeIndex="368">
+       <infos>
+        <bounds left="999" top="6010" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1269"/>
+       <Text nLength="0" nType="POR_TXT" nHeight="256"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1270"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf401130d0" id="13" symbol="11SwCellFrame" next="16" prev="7" upper="6" lower="14">
+      <infos>
+       <bounds left="3645" top="1676" width="2754" height="4590"/>
+       <prtBounds left="108" top="10" width="2538" height="4580"/>
+      </infos>
+      <txt ptr="0x7fbf40130738" id="14" symbol="11SwTextFrame" next="15" upper="13" txtNodeIndex="371">
+       <infos>
+        <bounds left="3753" top="1686" width="2538" height="3557"/>
+        <prtBounds left="0" top="0" width="2538" height="3557"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x45651a0" id="350" symbol="19SwFlyInContentFrame" lower="351">
+         <infos>
+          <bounds left="3822" top="1686" width="2401" height="3557"/>
+          <prtBounds left="0" top="0" width="2401" height="3557"/>
+         </infos>
+         <notxt ptr="0x45b2d50" id="351" symbol="13SwNoTextFrame" upper="350">
+          <infos>
+           <bounds left="3822" top="1686" width="2401" height="3557"/>
+           <prtBounds left="0" top="0" width="2401" height="3557"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="69"/>
+       <Special nLength="1" nType="POR_FLYCNT" rText="" nHeight="3557" nWidth="2401"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="69"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40130840" id="15" symbol="11SwTextFrame" prev="14" upper="13" txtNodeIndex="372">
+       <infos>
+        <bounds left="3753" top="5243" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43b4130" id="228" symbol="19SwFlyAtContentFrame" lower="229">
+         <infos>
+          <bounds left="3734" top="5277" width="2540" height="992"/>
+          <prtBounds left="164" top="92" width="2212" height="808"/>
+         </infos>
+         <txt ptr="0x7fbf4011eeb8" id="229" symbol="11SwTextFrame" upper="228" txtNodeIndex="12">
+          <infos>
+           <bounds left="3898" top="5369" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1106"/>
+          <Text nLength="0" nType="POR_TXT" nHeight="256"/>
+          <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1107"/>
+          <LineBreak nWidth="2213"/>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1269"/>
+       <Text nLength="0" nType="POR_TXT" nHeight="256"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1270"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf401131a0" id="16" symbol="11SwCellFrame" next="19" prev="13" upper="6" lower="17">
+      <infos>
+       <bounds left="6399" top="1676" width="2754" height="4590"/>
+       <prtBounds left="108" top="10" width="2538" height="4580"/>
+      </infos>
+      <txt ptr="0x7fbf40130948" id="17" symbol="11SwTextFrame" next="18" upper="16" txtNodeIndex="375">
+       <infos>
+        <bounds left="6507" top="1686" width="2538" height="3557"/>
+        <prtBounds left="0" top="0" width="2538" height="3557"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x459b1d0" id="352" symbol="19SwFlyInContentFrame" lower="353">
+         <infos>
+          <bounds left="6517" top="1686" width="2519" height="3557"/>
+          <prtBounds left="0" top="0" width="2519" height="3557"/>
+         </infos>
+         <notxt ptr="0x45b4b10" id="353" symbol="13SwNoTextFrame" upper="352">
+          <infos>
+           <bounds left="6517" top="1686" width="2519" height="3557"/>
+           <prtBounds left="0" top="0" width="2519" height="3557"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="10"/>
+       <Special nLength="1" nType="POR_FLYCNT" rText="" nHeight="3557" nWidth="2519"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="10"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40130a50" id="18" symbol="11SwTextFrame" prev="17" upper="16" txtNodeIndex="376">
+       <infos>
+        <bounds left="6507" top="5243" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43b4870" id="230" symbol="19SwFlyAtContentFrame" lower="231">
+         <infos>
+          <bounds left="6449" top="5270" width="2540" height="984"/>
+          <prtBounds left="164" top="92" width="2212" height="800"/>
+         </infos>
+         <txt ptr="0x7fbf4011f050" id="231" symbol="11SwTextFrame" upper="230" txtNodeIndex="18">
+          <infos>
+           <bounds left="6613" top="5362" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1106"/>
+          <Text nLength="0" nType="POR_TXT" nHeight="256"/>
+          <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1107"/>
+          <LineBreak nWidth="2213"/>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1269"/>
+       <Text nLength="0" nType="POR_TXT" nHeight="256"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1270"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40113270" id="19" symbol="11SwCellFrame" prev="16" upper="6" lower="20">
+      <infos>
+       <bounds left="9153" top="1676" width="2764" height="4590"/>
+       <prtBounds left="108" top="10" width="2548" height="4580"/>
+      </infos>
+      <txt ptr="0x7fbf40130b58" id="20" symbol="11SwTextFrame" upper="19" txtNodeIndex="379">
+       <infos>
+        <bounds left="9261" top="1686" width="2548" height="3557"/>
+        <prtBounds left="0" top="0" width="2548" height="3557"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43b4ff0" id="232" symbol="19SwFlyAtContentFrame" lower="233">
+         <infos>
+          <bounds left="9239" top="5271" width="2540" height="984"/>
+          <prtBounds left="164" top="92" width="2212" height="800"/>
+         </infos>
+         <txt ptr="0x7fbf4011f158" id="233" symbol="11SwTextFrame" upper="232" txtNodeIndex="21">
+          <infos>
+           <bounds left="9403" top="5363" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1106"/>
+          <Text nLength="0" nType="POR_TXT" nHeight="256"/>
+          <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1107"/>
+          <LineBreak nWidth="2213"/>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x455a180" id="354" symbol="19SwFlyInContentFrame" lower="355">
+         <infos>
+          <bounds left="9313" top="1686" width="2444" height="3557"/>
+          <prtBounds left="0" top="0" width="2444" height="3557"/>
+         </infos>
+         <notxt ptr="0x4560b00" id="355" symbol="13SwNoTextFrame" upper="354">
+          <infos>
+           <bounds left="9313" top="1686" width="2444" height="3557"/>
+           <prtBounds left="0" top="0" width="2444" height="3557"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="52"/>
+       <Special nLength="1" nType="POR_FLYCNT" rText="" nHeight="3557" nWidth="2444"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="53"/>
+       <LineBreak nWidth="2549"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x7fbf401120e8" id="21" symbol="10SwRowFrame" next="34" prev="6" upper="5" lower="22">
+     <infos>
+      <bounds left="891" top="6266" width="11026" height="4476"/>
+      <prtBounds left="0" top="0" width="11026" height="4476"/>
+     </infos>
+     <cell ptr="0x7fbf40113340" id="22" symbol="11SwCellFrame" next="28" upper="21" lower="23">
+      <infos>
+       <bounds left="891" top="6266" width="2754" height="4476"/>
+       <prtBounds left="108" top="10" width="2538" height="4466"/>
+      </infos>
+      <txt ptr="0x7fbf40130c60" id="23" symbol="11SwTextFrame" next="24" upper="22" txtNodeIndex="382">
+       <infos>
+        <bounds left="999" top="6276" width="2538" height="3442"/>
+        <prtBounds left="0" top="0" width="2538" height="3442"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x459b860" id="356" symbol="19SwFlyInContentFrame" lower="357">
+         <infos>
+          <bounds left="1052" top="6276" width="2432" height="3442"/>
+          <prtBounds left="0" top="0" width="2432" height="3442"/>
+         </infos>
+         <notxt ptr="0x4561dd0" id="357" symbol="13SwNoTextFrame" upper="356">
+          <infos>
+           <bounds left="1052" top="6276" width="2432" height="3442"/>
+           <prtBounds left="0" top="0" width="2432" height="3442"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="53"/>
+       <Special nLength="1" nType="POR_FLYCNT" rText="" nHeight="3442" nWidth="2432"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="54"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40130d68" id="24" symbol="11SwTextFrame" next="25" prev="23" upper="22" txtNodeIndex="383">
+       <infos>
+        <bounds left="999" top="9718" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43b5790" id="234" symbol="19SwFlyAtContentFrame" lower="235">
+         <infos>
+          <bounds left="974" top="9733" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf4011f260" id="235" symbol="11SwTextFrame" upper="234" txtNodeIndex="30">
+          <infos>
+           <bounds left="1138" top="9825" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+          <LineBreak/>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1269"/>
+       <Text nLength="0" nType="POR_TXT" nHeight="256"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1270"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40130e70" id="25" symbol="11SwTextFrame" next="26" prev="24" upper="22" txtNodeIndex="384">
+       <infos>
+        <bounds left="999" top="9974" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+       <LineBreak/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40114008" id="26" symbol="11SwTextFrame" next="27" prev="25" upper="22" txtNodeIndex="385">
+       <infos>
+        <bounds left="999" top="10230" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+       <LineBreak/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40114110" id="27" symbol="11SwTextFrame" prev="26" upper="22" txtNodeIndex="386">
+       <infos>
+        <bounds left="999" top="10486" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+       <LineBreak/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40113410" id="28" symbol="11SwCellFrame" next="30" prev="22" upper="21" lower="29">
+      <infos>
+       <bounds left="3645" top="6266" width="2754" height="4476"/>
+       <prtBounds left="108" top="10" width="2538" height="4466"/>
+      </infos>
+      <txt ptr="0x7fbf40114218" id="29" symbol="11SwTextFrame" upper="28" txtNodeIndex="389">
+       <infos>
+        <bounds left="3753" top="6276" width="2538" height="3442"/>
+        <prtBounds left="0" top="0" width="2538" height="3442"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43b5fa0" id="236" symbol="19SwFlyAtContentFrame" lower="237">
+         <infos>
+          <bounds left="3734" top="9769" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf4011f368" id="237" symbol="11SwTextFrame" upper="236" txtNodeIndex="33">
+          <infos>
+           <bounds left="3898" top="9861" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+          <LineBreak/>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4379e10" id="358" symbol="19SwFlyInContentFrame" lower="359">
+         <infos>
+          <bounds left="3816" top="6276" width="2413" height="3442"/>
+          <prtBounds left="0" top="0" width="2413" height="3442"/>
+         </infos>
+         <notxt ptr="0x456b8f0" id="359" symbol="13SwNoTextFrame" upper="358">
+          <infos>
+           <bounds left="3816" top="6276" width="2413" height="3442"/>
+           <prtBounds left="0" top="0" width="2413" height="3442"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="63"/>
+       <Special nLength="1" nType="POR_FLYCNT" rText="" nHeight="3442" nWidth="2413"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="63"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf401134e0" id="30" symbol="11SwCellFrame" next="32" prev="28" upper="21" lower="31">
+      <infos>
+       <bounds left="6399" top="6266" width="2754" height="4476"/>
+       <prtBounds left="108" top="10" width="2538" height="4466"/>
+      </infos>
+      <txt ptr="0x7fbf40114320" id="31" symbol="11SwTextFrame" upper="30" txtNodeIndex="392">
+       <infos>
+        <bounds left="6507" top="6276" width="2538" height="3442"/>
+        <prtBounds left="0" top="0" width="2538" height="3442"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43b6760" id="238" symbol="19SwFlyAtContentFrame" lower="239">
+         <infos>
+          <bounds left="6554" top="9769" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf4011f470" id="239" symbol="11SwTextFrame" upper="238" txtNodeIndex="39">
+          <infos>
+           <bounds left="6718" top="9861" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+          <LineBreak/>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4563600" id="360" symbol="19SwFlyInContentFrame" lower="361">
+         <infos>
+          <bounds left="6563" top="6276" width="2426" height="3442"/>
+          <prtBounds left="0" top="0" width="2426" height="3442"/>
+         </infos>
+         <notxt ptr="0x456ccc0" id="361" symbol="13SwNoTextFrame" upper="360">
+          <infos>
+           <bounds left="6563" top="6276" width="2426" height="3442"/>
+           <prtBounds left="0" top="0" width="2426" height="3442"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="56"/>
+       <Special nLength="1" nType="POR_FLYCNT" rText="" nHeight="3442" nWidth="2426"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="57"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf401135b0" id="32" symbol="11SwCellFrame" prev="30" upper="21" lower="33">
+      <infos>
+       <bounds left="9153" top="6266" width="2764" height="4476"/>
+       <prtBounds left="108" top="10" width="2548" height="4466"/>
+      </infos>
+      <txt ptr="0x7fbf40114428" id="33" symbol="11SwTextFrame" upper="32" txtNodeIndex="395">
+       <infos>
+        <bounds left="9261" top="6276" width="2548" height="3442"/>
+        <prtBounds left="0" top="0" width="2548" height="3442"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43b6f20" id="240" symbol="19SwFlyAtContentFrame" lower="241">
+         <infos>
+          <bounds left="9239" top="9769" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf4011f578" id="241" symbol="11SwTextFrame" upper="240" txtNodeIndex="45">
+          <infos>
+           <bounds left="9403" top="9861" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+          <LineBreak/>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x457dd80" id="362" symbol="19SwFlyInContentFrame" lower="363">
+         <infos>
+          <bounds left="9354" top="6276" width="2363" height="3442"/>
+          <prtBounds left="0" top="0" width="2363" height="3442"/>
+         </infos>
+         <notxt ptr="0x457e380" id="363" symbol="13SwNoTextFrame" upper="362">
+          <infos>
+           <bounds left="9354" top="6276" width="2363" height="3442"/>
+           <prtBounds left="0" top="0" width="2363" height="3442"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="93"/>
+       <Special nLength="1" nType="POR_FLYCNT" rText="" nHeight="3442" nWidth="2363"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="93"/>
+       <LineBreak nWidth="2549"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x7fbf401121d0" id="34" symbol="10SwRowFrame" prev="21" upper="5" lower="35">
+     <infos>
+      <bounds left="891" top="10742" width="11026" height="4485"/>
+      <prtBounds left="0" top="0" width="11026" height="4485"/>
+     </infos>
+     <cell ptr="0x7fbf40113680" id="35" symbol="11SwCellFrame" next="41" upper="34" lower="36">
+      <infos>
+       <bounds left="891" top="10742" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40114530" id="36" symbol="11SwTextFrame" next="37" upper="35" txtNodeIndex="398">
+       <infos>
+        <bounds left="999" top="10752" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x457f350" id="364" symbol="19SwFlyInContentFrame" lower="365">
+         <infos>
+          <bounds left="1049" top="10752" width="2438" height="3451"/>
+          <prtBounds left="0" top="0" width="2438" height="3451"/>
+         </infos>
+         <notxt ptr="0x457fa90" id="365" symbol="13SwNoTextFrame" upper="364">
+          <infos>
+           <bounds left="1049" top="10752" width="2438" height="3451"/>
+           <prtBounds left="0" top="0" width="2438" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="50"/>
+       <Special nLength="1" nType="POR_FLYCNT" rText="" nHeight="3451" nWidth="2438"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="51"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40114638" id="37" symbol="11SwTextFrame" next="38" prev="36" upper="35" txtNodeIndex="399">
+       <infos>
+        <bounds left="999" top="14203" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43b76e0" id="242" symbol="19SwFlyAtContentFrame" lower="243">
+         <infos>
+          <bounds left="959" top="14226" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf4011f680" id="243" symbol="11SwTextFrame" upper="242" txtNodeIndex="54">
+          <infos>
+           <bounds left="1123" top="14318" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+          <LineBreak/>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1269"/>
+       <Text nLength="0" nType="POR_TXT" nHeight="256"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="1270"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40114740" id="38" symbol="11SwTextFrame" next="39" prev="37" upper="35" txtNodeIndex="400">
+       <infos>
+        <bounds left="999" top="14459" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+       <LineBreak/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40114848" id="39" symbol="11SwTextFrame" next="40" prev="38" upper="35" txtNodeIndex="401">
+       <infos>
+        <bounds left="999" top="14715" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+       <LineBreak/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40114950" id="40" symbol="11SwTextFrame" prev="39" upper="35" txtNodeIndex="402">
+       <infos>
+        <bounds left="999" top="14971" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+       <LineBreak/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40113750" id="41" symbol="11SwCellFrame" next="43" prev="35" upper="34" lower="42">
+      <infos>
+       <bounds left="3645" top="10742" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40114a58" id="42" symbol="11SwTextFrame" upper="41" txtNodeIndex="405">
+       <infos>
+        <bounds left="3753" top="10752" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43b7f30" id="244" symbol="19SwFlyAtContentFrame" lower="245">
+         <infos>
+          <bounds left="3734" top="14227" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf4011f788" id="245" symbol="11SwTextFrame" upper="244" txtNodeIndex="57">
+          <infos>
+           <bounds left="3898" top="14319" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+          <LineBreak/>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4556310" id="366" symbol="19SwFlyInContentFrame" lower="367">
+         <infos>
+          <bounds left="3803" top="10752" width="2438" height="3451"/>
+          <prtBounds left="0" top="0" width="2438" height="3451"/>
+         </infos>
+         <notxt ptr="0x4556a50" id="367" symbol="13SwNoTextFrame" upper="366">
+          <infos>
+           <bounds left="3803" top="10752" width="2438" height="3451"/>
+           <prtBounds left="0" top="0" width="2438" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="50"/>
+       <Special nLength="1" nType="POR_FLYCNT" rText="" nHeight="3451" nWidth="2438"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="51"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40113820" id="43" symbol="11SwCellFrame" next="45" prev="41" upper="34" lower="44">
+      <infos>
+       <bounds left="6399" top="10742" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40114b60" id="44" symbol="11SwTextFrame" upper="43" txtNodeIndex="408">
+       <infos>
+        <bounds left="6507" top="10752" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43b86a0" id="246" symbol="19SwFlyAtContentFrame" lower="247">
+         <infos>
+          <bounds left="6449" top="14227" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf4011f890" id="247" symbol="11SwTextFrame" upper="246" txtNodeIndex="63">
+          <infos>
+           <bounds left="6613" top="14319" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+          <LineBreak/>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4557ac0" id="368" symbol="19SwFlyInContentFrame" lower="369">
+         <infos>
+          <bounds left="6548" top="10752" width="2457" height="3451"/>
+          <prtBounds left="0" top="0" width="2457" height="3451"/>
+         </infos>
+         <notxt ptr="0x4558200" id="369" symbol="13SwNoTextFrame" upper="368">
+          <infos>
+           <bounds left="6548" top="10752" width="2457" height="3451"/>
+           <prtBounds left="0" top="0" width="2457" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="41"/>
+       <Special nLength="1" nType="POR_FLYCNT" rText="" nHeight="3451" nWidth="2457"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="41"/>
+       <LineBreak nWidth="2539"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf401138f0" id="45" symbol="11SwCellFrame" prev="43" upper="34" lower="46">
+      <infos>
+       <bounds left="9153" top="10742" width="2764" height="4485"/>
+       <prtBounds left="108" top="10" width="2548" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40114c68" id="46" symbol="11SwTextFrame" upper="45" txtNodeIndex="411">
+       <infos>
+        <bounds left="9261" top="10752" width="2548" height="3451"/>
+        <prtBounds left="0" top="0" width="2548" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43b8e60" id="248" symbol="19SwFlyAtContentFrame" lower="249">
+         <infos>
+          <bounds left="9239" top="14227" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf4011f998" id="249" symbol="11SwTextFrame" upper="248" txtNodeIndex="69">
+          <infos>
+           <bounds left="9403" top="14319" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+          <LineBreak/>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x437a6c0" id="370" symbol="19SwFlyInContentFrame" lower="371">
+         <infos>
+          <bounds left="9316" top="10752" width="2438" height="3451"/>
+          <prtBounds left="0" top="0" width="2438" height="3451"/>
+         </infos>
+         <notxt ptr="0x437ae00" id="371" symbol="13SwNoTextFrame" upper="370">
+          <infos>
+           <bounds left="9316" top="10752" width="2438" height="3451"/>
+           <prtBounds left="0" top="0" width="2438" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="55"/>
+       <Special nLength="1" nType="POR_FLYCNT" rText="" nHeight="3451" nWidth="2438"/>
+       <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="56"/>
+       <LineBreak nWidth="2549"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x7fbf40114d70" id="47" symbol="11SwTextFrame" next="48" prev="5" upper="2" txtNodeIndex="414">
+    <infos>
+     <bounds left="1004" top="15237" width="10800" height="256"/>
+     <prtBounds left="0" top="0" width="10800" height="256"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x43b9620" id="250" symbol="19SwFlyAtContentFrame" lower="251">
+      <infos>
+       <bounds left="811" top="15293" width="11114" height="539"/>
+       <prtBounds left="159" top="87" width="10796" height="365"/>
+      </infos>
+      <txt ptr="0x7fbf4011faa0" id="251" symbol="11SwTextFrame" upper="250" txtNodeIndex="75">
+       <infos>
+        <bounds left="970" top="15380" width="10796" height="280"/>
+        <prtBounds left="0" top="0" width="10796" height="280"/>
+       </infos>
+Printgames.ru       <Text nLength="13" nType="POR_PARA" nHeight="280" nWidth="1932"/>
+       <LineBreak nWidth="1932"/>
+       <Finish/>
+      </txt>
+     </fly>
+    </anchored>
+    <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7fbf40114e78" id="48" symbol="11SwTextFrame" prev="47" upper="2" txtNodeIndex="415">
+    <infos>
+     <bounds left="1004" top="15493" width="10800" height="494"/>
+     <prtBounds left="0" top="238" width="10800" height="256"/>
+    </infos>
+    <Text nLength="0" nType="POR_PARA" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x7fbf4012d0e8" id="372" symbol="11SwPageFrame" next="411" prev="1" upper="0" lower="373">
+  <infos>
+   <bounds left="284" top="16408" width="12240" height="15840"/>
+   <prtBounds left="720" top="270" width="10800" height="15480"/>
+  </infos>
+  <body ptr="0x7fbf4012f0c8" id="373" symbol="11SwBodyFrame" upper="372" lower="49">
+   <infos>
+    <bounds left="1004" top="16678" width="10800" height="15480"/>
+    <prtBounds left="0" top="0" width="10800" height="15480"/>
+   </infos>
+   <txt ptr="0x7fbf40115010" id="49" symbol="11SwTextFrame" next="50" upper="373" txtNodeIndex="416">
+    <infos>
+     <bounds left="1004" top="16678" width="10800" height="256"/>
+     <prtBounds left="0" top="0" width="10800" height="256"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <tab ptr="0x7fbf40131100" id="50" symbol="10SwTabFrame" next="92" prev="49" upper="373" lower="51">
+    <infos>
+     <bounds left="1004" top="16934" width="10800" height="13703"/>
+     <prtBounds left="-113" top="238" width="11026" height="13455"/>
+    </infos>
+    <row ptr="0x7fbf401122b8" id="51" symbol="10SwRowFrame" next="66" upper="50" lower="52">
+     <infos>
+      <bounds left="891" top="17172" width="11026" height="4485"/>
+      <prtBounds left="0" top="0" width="11026" height="4485"/>
+     </infos>
+     <cell ptr="0x7fbf401139c0" id="52" symbol="11SwCellFrame" next="58" upper="51" lower="53">
+      <infos>
+       <bounds left="891" top="17172" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40115118" id="53" symbol="11SwTextFrame" next="54" upper="52" txtNodeIndex="419">
+       <infos>
+        <bounds left="999" top="17182" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x5310260" id="425" symbol="19SwFlyInContentFrame" lower="426">
+         <infos>
+          <bounds left="1055" top="17182" width="2426" height="3451"/>
+          <prtBounds left="0" top="0" width="2426" height="3451"/>
+         </infos>
+         <notxt ptr="0x5310cf0" id="426" symbol="13SwNoTextFrame" upper="425">
+          <infos>
+           <bounds left="1055" top="17182" width="2426" height="3451"/>
+           <prtBounds left="0" top="0" width="2426" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40115220" id="54" symbol="11SwTextFrame" next="55" prev="53" upper="52" txtNodeIndex="420">
+       <infos>
+        <bounds left="999" top="20633" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43b9de0" id="252" symbol="19SwFlyAtContentFrame" lower="253">
+         <infos>
+          <bounds left="974" top="20644" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf4011fba8" id="253" symbol="11SwTextFrame" upper="252" txtNodeIndex="81">
+          <infos>
+           <bounds left="1138" top="20736" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40115328" id="55" symbol="11SwTextFrame" next="56" prev="54" upper="52" txtNodeIndex="421">
+       <infos>
+        <bounds left="999" top="20889" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40115430" id="56" symbol="11SwTextFrame" next="57" prev="55" upper="52" txtNodeIndex="422">
+       <infos>
+        <bounds left="999" top="21145" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40115538" id="57" symbol="11SwTextFrame" prev="56" upper="52" txtNodeIndex="423">
+       <infos>
+        <bounds left="999" top="21401" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40113a90" id="58" symbol="11SwCellFrame" next="62" prev="52" upper="51" lower="59">
+      <infos>
+       <bounds left="3645" top="17172" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40115640" id="59" symbol="11SwTextFrame" next="60" upper="58" txtNodeIndex="426">
+       <infos>
+        <bounds left="3753" top="17182" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x5316090" id="427" symbol="19SwFlyInContentFrame" lower="428">
+         <infos>
+          <bounds left="3794" top="17182" width="2457" height="3451"/>
+          <prtBounds left="0" top="0" width="2457" height="3451"/>
+         </infos>
+         <notxt ptr="0x5316b00" id="428" symbol="13SwNoTextFrame" upper="427">
+          <infos>
+           <bounds left="3794" top="17182" width="2457" height="3451"/>
+           <prtBounds left="0" top="0" width="2457" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40115748" id="60" symbol="11SwTextFrame" next="61" prev="59" upper="58" txtNodeIndex="427">
+       <infos>
+        <bounds left="3753" top="20633" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43ba5a0" id="254" symbol="19SwFlyAtContentFrame" lower="255">
+         <infos>
+          <bounds left="3734" top="20643" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf4011fcb0" id="255" symbol="11SwTextFrame" upper="254" txtNodeIndex="87">
+          <infos>
+           <bounds left="3898" top="20735" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40115850" id="61" symbol="11SwTextFrame" prev="60" upper="58" txtNodeIndex="428">
+       <infos>
+        <bounds left="3753" top="20889" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40113b60" id="62" symbol="11SwCellFrame" next="64" prev="58" upper="51" lower="63">
+      <infos>
+       <bounds left="6399" top="17172" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40115958" id="63" symbol="11SwTextFrame" upper="62" txtNodeIndex="431">
+       <infos>
+        <bounds left="6507" top="17182" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43bad60" id="256" symbol="19SwFlyAtContentFrame" lower="257">
+         <infos>
+          <bounds left="6539" top="20643" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf4011fdb8" id="257" symbol="11SwTextFrame" upper="256" txtNodeIndex="90">
+          <infos>
+           <bounds left="6703" top="20735" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x531a470" id="429" symbol="19SwFlyInContentFrame" lower="430">
+         <infos>
+          <bounds left="6563" top="17182" width="2426" height="3451"/>
+          <prtBounds left="0" top="0" width="2426" height="3451"/>
+         </infos>
+         <notxt ptr="0x531b0b0" id="430" symbol="13SwNoTextFrame" upper="429">
+          <infos>
+           <bounds left="6563" top="17182" width="2426" height="3451"/>
+           <prtBounds left="0" top="0" width="2426" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40113c30" id="64" symbol="11SwCellFrame" prev="62" upper="51" lower="65">
+      <infos>
+       <bounds left="9153" top="17172" width="2764" height="4485"/>
+       <prtBounds left="108" top="10" width="2548" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40115a60" id="65" symbol="11SwTextFrame" upper="64" txtNodeIndex="434">
+       <infos>
+        <bounds left="9261" top="17182" width="2548" height="3451"/>
+        <prtBounds left="0" top="0" width="2548" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43bb520" id="258" symbol="19SwFlyAtContentFrame" lower="259">
+         <infos>
+          <bounds left="9239" top="20644" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf4011fec0" id="259" symbol="11SwTextFrame" upper="258" txtNodeIndex="96">
+          <infos>
+           <bounds left="9403" top="20736" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4b33d60" id="394" symbol="19SwFlyInContentFrame" lower="395">
+         <infos>
+          <bounds left="9307" top="17182" width="2457" height="3451"/>
+          <prtBounds left="0" top="0" width="2457" height="3451"/>
+         </infos>
+         <notxt ptr="0x4b288e0" id="395" symbol="13SwNoTextFrame" upper="394">
+          <infos>
+           <bounds left="9307" top="17182" width="2457" height="3451"/>
+           <prtBounds left="0" top="0" width="2457" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x7fbf401123a0" id="66" symbol="10SwRowFrame" next="79" prev="51" upper="50" lower="67">
+     <infos>
+      <bounds left="891" top="21657" width="11026" height="4485"/>
+      <prtBounds left="0" top="0" width="11026" height="4485"/>
+     </infos>
+     <cell ptr="0x7fbf40113d00" id="67" symbol="11SwCellFrame" next="73" upper="66" lower="68">
+      <infos>
+       <bounds left="891" top="21657" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40115b68" id="68" symbol="11SwTextFrame" next="69" upper="67" txtNodeIndex="437">
+       <infos>
+        <bounds left="999" top="21667" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x531e8f0" id="431" symbol="19SwFlyInContentFrame" lower="432">
+         <infos>
+          <bounds left="1009" top="21667" width="2519" height="3451"/>
+          <prtBounds left="0" top="0" width="2519" height="3451"/>
+         </infos>
+         <notxt ptr="0x531f400" id="432" symbol="13SwNoTextFrame" upper="431">
+          <infos>
+           <bounds left="1009" top="21667" width="2519" height="3451"/>
+           <prtBounds left="0" top="0" width="2519" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40115c70" id="69" symbol="11SwTextFrame" next="70" prev="68" upper="67" txtNodeIndex="438">
+       <infos>
+        <bounds left="999" top="25118" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43bbdf0" id="260" symbol="19SwFlyAtContentFrame" lower="261">
+         <infos>
+          <bounds left="974" top="25146" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40120058" id="261" symbol="11SwTextFrame" upper="260" txtNodeIndex="105">
+          <infos>
+           <bounds left="1138" top="25238" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40115d78" id="70" symbol="11SwTextFrame" next="71" prev="69" upper="67" txtNodeIndex="439">
+       <infos>
+        <bounds left="999" top="25374" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40115e80" id="71" symbol="11SwTextFrame" next="72" prev="70" upper="67" txtNodeIndex="440">
+       <infos>
+        <bounds left="999" top="25630" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40116018" id="72" symbol="11SwTextFrame" prev="71" upper="67" txtNodeIndex="441">
+       <infos>
+        <bounds left="999" top="25886" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40113dd0" id="73" symbol="11SwCellFrame" next="75" prev="67" upper="66" lower="74">
+      <infos>
+       <bounds left="3645" top="21657" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40116120" id="74" symbol="11SwTextFrame" upper="73" txtNodeIndex="444">
+       <infos>
+        <bounds left="3753" top="21667" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43bc5b0" id="262" symbol="19SwFlyAtContentFrame" lower="263">
+         <infos>
+          <bounds left="3734" top="25147" width="2480" height="995"/>
+          <prtBounds left="164" top="92" width="2152" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40120160" id="263" symbol="11SwTextFrame" upper="262" txtNodeIndex="108">
+          <infos>
+           <bounds left="3898" top="25239" width="2152" height="256"/>
+           <prtBounds left="0" top="0" width="2152" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x5324580" id="433" symbol="19SwFlyInContentFrame" lower="434">
+         <infos>
+          <bounds left="3794" top="21667" width="2457" height="3451"/>
+          <prtBounds left="0" top="0" width="2457" height="3451"/>
+         </infos>
+         <notxt ptr="0x53251c0" id="434" symbol="13SwNoTextFrame" upper="433">
+          <infos>
+           <bounds left="3794" top="21667" width="2457" height="3451"/>
+           <prtBounds left="0" top="0" width="2457" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40113ea0" id="75" symbol="11SwCellFrame" next="77" prev="73" upper="66" lower="76">
+      <infos>
+       <bounds left="6399" top="21657" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40116228" id="76" symbol="11SwTextFrame" upper="75" txtNodeIndex="447">
+       <infos>
+        <bounds left="6507" top="21667" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43bcd70" id="264" symbol="19SwFlyAtContentFrame" lower="265">
+         <infos>
+          <bounds left="6554" top="25147" width="2465" height="995"/>
+          <prtBounds left="164" top="92" width="2137" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40120268" id="265" symbol="11SwTextFrame" upper="264" txtNodeIndex="114">
+          <infos>
+           <bounds left="6718" top="25239" width="2137" height="256"/>
+           <prtBounds left="0" top="0" width="2137" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x5326f30" id="435" symbol="19SwFlyInContentFrame" lower="436">
+         <infos>
+          <bounds left="6532" top="21667" width="2488" height="3451"/>
+          <prtBounds left="0" top="0" width="2488" height="3451"/>
+         </infos>
+         <notxt ptr="0x5327880" id="436" symbol="13SwNoTextFrame" upper="435">
+          <infos>
+           <bounds left="6532" top="21667" width="2488" height="3451"/>
+           <prtBounds left="0" top="0" width="2488" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40117008" id="77" symbol="11SwCellFrame" prev="75" upper="66" lower="78">
+      <infos>
+       <bounds left="9153" top="21657" width="2764" height="4485"/>
+       <prtBounds left="108" top="10" width="2548" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40116330" id="78" symbol="11SwTextFrame" upper="77" txtNodeIndex="450">
+       <infos>
+        <bounds left="9261" top="21667" width="2548" height="3451"/>
+        <prtBounds left="0" top="0" width="2548" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43bd530" id="266" symbol="19SwFlyAtContentFrame" lower="267">
+         <infos>
+          <bounds left="9284" top="25147" width="2495" height="995"/>
+          <prtBounds left="164" top="92" width="2167" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40120370" id="267" symbol="11SwTextFrame" upper="266" txtNodeIndex="120">
+          <infos>
+           <bounds left="9448" top="25239" width="2167" height="256"/>
+           <prtBounds left="0" top="0" width="2167" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4b29b20" id="392" symbol="19SwFlyInContentFrame" lower="393">
+         <infos>
+          <bounds left="9307" top="21667" width="2457" height="3451"/>
+          <prtBounds left="0" top="0" width="2457" height="3451"/>
+         </infos>
+         <notxt ptr="0x4b26860" id="393" symbol="13SwNoTextFrame" upper="392">
+          <infos>
+           <bounds left="9307" top="21667" width="2457" height="3451"/>
+           <prtBounds left="0" top="0" width="2457" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x7fbf40112488" id="79" symbol="10SwRowFrame" prev="66" upper="50" lower="80">
+     <infos>
+      <bounds left="891" top="26142" width="11026" height="4485"/>
+      <prtBounds left="0" top="0" width="11026" height="4485"/>
+     </infos>
+     <cell ptr="0x7fbf401170d8" id="80" symbol="11SwCellFrame" next="86" upper="79" lower="81">
+      <infos>
+       <bounds left="891" top="26142" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40116438" id="81" symbol="11SwTextFrame" next="82" upper="80" txtNodeIndex="453">
+       <infos>
+        <bounds left="999" top="26152" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x532b1a0" id="437" symbol="19SwFlyInContentFrame" lower="438">
+         <infos>
+          <bounds left="1034" top="26152" width="2469" height="3451"/>
+          <prtBounds left="0" top="0" width="2469" height="3451"/>
+         </infos>
+         <notxt ptr="0x532bc30" id="438" symbol="13SwNoTextFrame" upper="437">
+          <infos>
+           <bounds left="1034" top="26152" width="2469" height="3451"/>
+           <prtBounds left="0" top="0" width="2469" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40116540" id="82" symbol="11SwTextFrame" next="83" prev="81" upper="80" txtNodeIndex="454">
+       <infos>
+        <bounds left="999" top="29603" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43bdcf0" id="268" symbol="19SwFlyAtContentFrame" lower="269">
+         <infos>
+          <bounds left="974" top="29661" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40120478" id="269" symbol="11SwTextFrame" upper="268" txtNodeIndex="129">
+          <infos>
+           <bounds left="1138" top="29753" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40116648" id="83" symbol="11SwTextFrame" next="84" prev="82" upper="80" txtNodeIndex="455">
+       <infos>
+        <bounds left="999" top="29859" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40116750" id="84" symbol="11SwTextFrame" next="85" prev="83" upper="80" txtNodeIndex="456">
+       <infos>
+        <bounds left="999" top="30115" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40116858" id="85" symbol="11SwTextFrame" prev="84" upper="80" txtNodeIndex="457">
+       <infos>
+        <bounds left="999" top="30371" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf401171a8" id="86" symbol="11SwCellFrame" next="88" prev="80" upper="79" lower="87">
+      <infos>
+       <bounds left="3645" top="26142" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40116960" id="87" symbol="11SwTextFrame" upper="86" txtNodeIndex="460">
+       <infos>
+        <bounds left="3753" top="26152" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43be4b0" id="270" symbol="19SwFlyAtContentFrame" lower="271">
+         <infos>
+          <bounds left="3734" top="29661" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40120580" id="271" symbol="11SwTextFrame" upper="270" txtNodeIndex="132">
+          <infos>
+           <bounds left="3898" top="29753" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x5330ff0" id="439" symbol="19SwFlyInContentFrame" lower="440">
+         <infos>
+          <bounds left="3809" top="26152" width="2426" height="3451"/>
+          <prtBounds left="0" top="0" width="2426" height="3451"/>
+         </infos>
+         <notxt ptr="0x5331a40" id="440" symbol="13SwNoTextFrame" upper="439">
+          <infos>
+           <bounds left="3809" top="26152" width="2426" height="3451"/>
+           <prtBounds left="0" top="0" width="2426" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40117278" id="88" symbol="11SwCellFrame" next="90" prev="86" upper="79" lower="89">
+      <infos>
+       <bounds left="6399" top="26142" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40116a68" id="89" symbol="11SwTextFrame" upper="88" txtNodeIndex="463">
+       <infos>
+        <bounds left="6507" top="26152" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43bec70" id="272" symbol="19SwFlyAtContentFrame" lower="273">
+         <infos>
+          <bounds left="6479" top="29661" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40120688" id="273" symbol="11SwTextFrame" upper="272" txtNodeIndex="138">
+          <infos>
+           <bounds left="6643" top="29753" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x5333960" id="441" symbol="19SwFlyInContentFrame" lower="442">
+         <infos>
+          <bounds left="6563" top="26152" width="2426" height="3451"/>
+          <prtBounds left="0" top="0" width="2426" height="3451"/>
+         </infos>
+         <notxt ptr="0x5334320" id="442" symbol="13SwNoTextFrame" upper="441">
+          <infos>
+           <bounds left="6563" top="26152" width="2426" height="3451"/>
+           <prtBounds left="0" top="0" width="2426" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40117348" id="90" symbol="11SwCellFrame" prev="88" upper="79" lower="91">
+      <infos>
+       <bounds left="9153" top="26142" width="2764" height="4485"/>
+       <prtBounds left="108" top="10" width="2548" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40116b70" id="91" symbol="11SwTextFrame" upper="90" txtNodeIndex="466">
+       <infos>
+        <bounds left="9261" top="26152" width="2548" height="3451"/>
+        <prtBounds left="0" top="0" width="2548" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43bf430" id="274" symbol="19SwFlyAtContentFrame" lower="275">
+         <infos>
+          <bounds left="9209" top="29661" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40120790" id="275" symbol="11SwTextFrame" upper="274" txtNodeIndex="144">
+          <infos>
+           <bounds left="9373" top="29753" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4b34510" id="390" symbol="19SwFlyInContentFrame" lower="391">
+         <infos>
+          <bounds left="9322" top="26152" width="2426" height="3451"/>
+          <prtBounds left="0" top="0" width="2426" height="3451"/>
+         </infos>
+         <notxt ptr="0x4b34c40" id="391" symbol="13SwNoTextFrame" upper="390">
+          <infos>
+           <bounds left="9322" top="26152" width="2426" height="3451"/>
+           <prtBounds left="0" top="0" width="2426" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x7fbf40116c78" id="92" symbol="11SwTextFrame" next="93" prev="50" upper="373" txtNodeIndex="469">
+    <infos>
+     <bounds left="1004" top="30637" width="10800" height="256"/>
+     <prtBounds left="0" top="0" width="10800" height="256"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x43bfbf0" id="276" symbol="19SwFlyAtContentFrame" lower="277">
+      <infos>
+       <bounds left="877" top="30769" width="11114" height="539"/>
+       <prtBounds left="159" top="87" width="10796" height="365"/>
+      </infos>
+      <txt ptr="0x7fbf40120898" id="277" symbol="11SwTextFrame" upper="276" txtNodeIndex="150">
+       <infos>
+        <bounds left="1036" top="30856" width="10796" height="280"/>
+        <prtBounds left="0" top="0" width="10796" height="280"/>
+       </infos>
+Printgames.ru       <Finish/>
+      </txt>
+     </fly>
+    </anchored>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7fbf40116d80" id="93" symbol="11SwTextFrame" next="94" prev="92" upper="373" txtNodeIndex="470">
+    <infos>
+     <bounds left="1004" top="30893" width="10800" height="494"/>
+     <prtBounds left="0" top="238" width="10800" height="256"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7fbf40116e88" id="94" symbol="11SwTextFrame" prev="93" upper="373" txtNodeIndex="471">
+    <infos>
+     <bounds left="1004" top="31387" width="10800" height="611"/>
+     <prtBounds left="0" top="238" width="10800" height="373"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x7fbf4012d1d0" id="411" symbol="11SwPageFrame" next="458" prev="372" upper="0" lower="412">
+  <infos>
+   <bounds left="284" top="32532" width="12240" height="15840"/>
+   <prtBounds left="720" top="270" width="10800" height="15480"/>
+  </infos>
+  <body ptr="0x7fbf4012f190" id="412" symbol="11SwBodyFrame" upper="411" lower="95">
+   <infos>
+    <bounds left="1004" top="32802" width="10800" height="15480"/>
+    <prtBounds left="0" top="0" width="10800" height="15480"/>
+   </infos>
+   <tab ptr="0x7fbf40131200" id="95" symbol="10SwTabFrame" next="137" upper="412" lower="96">
+    <infos>
+     <bounds left="1004" top="32802" width="10800" height="13465"/>
+     <prtBounds left="-113" top="0" width="11026" height="13455"/>
+    </infos>
+    <row ptr="0x7fbf40112570" id="96" symbol="10SwRowFrame" next="109" upper="95" lower="97">
+     <infos>
+      <bounds left="891" top="32802" width="11026" height="4485"/>
+      <prtBounds left="0" top="0" width="11026" height="4485"/>
+     </infos>
+     <cell ptr="0x7fbf40117418" id="97" symbol="11SwCellFrame" next="103" upper="96" lower="98">
+      <infos>
+       <bounds left="891" top="32802" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40118020" id="98" symbol="11SwTextFrame" next="99" upper="97" txtNodeIndex="474">
+       <infos>
+        <bounds left="999" top="32812" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x4cffe60" id="396" symbol="19SwFlyInContentFrame" lower="397">
+         <infos>
+          <bounds left="1040" top="32812" width="2457" height="3451"/>
+          <prtBounds left="0" top="0" width="2457" height="3451"/>
+         </infos>
+         <notxt ptr="0x4cfa2b0" id="397" symbol="13SwNoTextFrame" upper="396">
+          <infos>
+           <bounds left="1040" top="32812" width="2457" height="3451"/>
+           <prtBounds left="0" top="0" width="2457" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40118128" id="99" symbol="11SwTextFrame" next="100" prev="98" upper="97" txtNodeIndex="475">
+       <infos>
+        <bounds left="999" top="36263" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c03b0" id="278" symbol="19SwFlyAtContentFrame" lower="279">
+         <infos>
+          <bounds left="974" top="36336" width="2540" height="916"/>
+          <prtBounds left="164" top="92" width="2212" height="732"/>
+         </infos>
+         <txt ptr="0x7fbf401209a0" id="279" symbol="11SwTextFrame" upper="278" txtNodeIndex="156">
+          <infos>
+           <bounds left="1138" top="36428" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40118230" id="100" symbol="11SwTextFrame" next="101" prev="99" upper="97" txtNodeIndex="476">
+       <infos>
+        <bounds left="999" top="36519" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40118338" id="101" symbol="11SwTextFrame" next="102" prev="100" upper="97" txtNodeIndex="477">
+       <infos>
+        <bounds left="999" top="36775" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40118440" id="102" symbol="11SwTextFrame" prev="101" upper="97" txtNodeIndex="478">
+       <infos>
+        <bounds left="999" top="37031" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf401174e8" id="103" symbol="11SwCellFrame" next="105" prev="97" upper="96" lower="104">
+      <infos>
+       <bounds left="3645" top="32802" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40118548" id="104" symbol="11SwTextFrame" upper="103" txtNodeIndex="481">
+       <infos>
+        <bounds left="3753" top="32812" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c0b70" id="280" symbol="19SwFlyAtContentFrame" lower="281">
+         <infos>
+          <bounds left="3734" top="36337" width="2540" height="916"/>
+          <prtBounds left="164" top="92" width="2212" height="732"/>
+         </infos>
+         <txt ptr="0x7fbf40120aa8" id="281" symbol="11SwTextFrame" upper="280" txtNodeIndex="159">
+          <infos>
+           <bounds left="3898" top="36429" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4d01e20" id="404" symbol="19SwFlyInContentFrame" lower="405">
+         <infos>
+          <bounds left="3809" top="32812" width="2426" height="3451"/>
+          <prtBounds left="0" top="0" width="2426" height="3451"/>
+         </infos>
+         <notxt ptr="0x4d029f0" id="405" symbol="13SwNoTextFrame" upper="404">
+          <infos>
+           <bounds left="3809" top="32812" width="2426" height="3451"/>
+           <prtBounds left="0" top="0" width="2426" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf401175b8" id="105" symbol="11SwCellFrame" next="107" prev="103" upper="96" lower="106">
+      <infos>
+       <bounds left="6399" top="32802" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40118650" id="106" symbol="11SwTextFrame" upper="105" txtNodeIndex="484">
+       <infos>
+        <bounds left="6507" top="32812" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c1330" id="282" symbol="19SwFlyAtContentFrame" lower="283">
+         <infos>
+          <bounds left="6479" top="36337" width="2540" height="916"/>
+          <prtBounds left="164" top="92" width="2212" height="732"/>
+         </infos>
+         <txt ptr="0x7fbf40120bb0" id="283" symbol="11SwTextFrame" upper="282" txtNodeIndex="165">
+          <infos>
+           <bounds left="6643" top="36429" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4d04700" id="407" symbol="19SwFlyInContentFrame" lower="408">
+         <infos>
+          <bounds left="6563" top="32812" width="2426" height="3451"/>
+          <prtBounds left="0" top="0" width="2426" height="3451"/>
+         </infos>
+         <notxt ptr="0x52eb9c0" id="408" symbol="13SwNoTextFrame" upper="407">
+          <infos>
+           <bounds left="6563" top="32812" width="2426" height="3451"/>
+           <prtBounds left="0" top="0" width="2426" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40117688" id="107" symbol="11SwCellFrame" prev="105" upper="96" lower="108">
+      <infos>
+       <bounds left="9153" top="32802" width="2764" height="4485"/>
+       <prtBounds left="108" top="10" width="2548" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40118758" id="108" symbol="11SwTextFrame" upper="107" txtNodeIndex="487">
+       <infos>
+        <bounds left="9261" top="32812" width="2548" height="3451"/>
+        <prtBounds left="0" top="0" width="2548" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c1af0" id="284" symbol="19SwFlyAtContentFrame" lower="285">
+         <infos>
+          <bounds left="9284" top="36337" width="2540" height="885"/>
+          <prtBounds left="164" top="92" width="2212" height="701"/>
+         </infos>
+         <txt ptr="0x7fbf40120cb8" id="285" symbol="11SwTextFrame" upper="284" txtNodeIndex="171">
+          <infos>
+           <bounds left="9448" top="36429" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4b2d6a0" id="388" symbol="19SwFlyInContentFrame" lower="389">
+         <infos>
+          <bounds left="9307" top="32812" width="2457" height="3451"/>
+          <prtBounds left="0" top="0" width="2457" height="3451"/>
+         </infos>
+         <notxt ptr="0x4b33500" id="389" symbol="13SwNoTextFrame" upper="388">
+          <infos>
+           <bounds left="9307" top="32812" width="2457" height="3451"/>
+           <prtBounds left="0" top="0" width="2457" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x7fbf40112658" id="109" symbol="10SwRowFrame" next="124" prev="96" upper="95" lower="110">
+     <infos>
+      <bounds left="891" top="37287" width="11026" height="4485"/>
+      <prtBounds left="0" top="0" width="11026" height="4485"/>
+     </infos>
+     <cell ptr="0x7fbf40117758" id="110" symbol="11SwCellFrame" next="116" upper="109" lower="111">
+      <infos>
+       <bounds left="891" top="37287" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40118860" id="111" symbol="11SwTextFrame" next="112" upper="110" txtNodeIndex="490">
+       <infos>
+        <bounds left="999" top="37297" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x4b1e940" id="413" symbol="19SwFlyInContentFrame" lower="414">
+         <infos>
+          <bounds left="1040" top="37297" width="2457" height="3451"/>
+          <prtBounds left="0" top="0" width="2457" height="3451"/>
+         </infos>
+         <notxt ptr="0x52edc10" id="414" symbol="13SwNoTextFrame" upper="413">
+          <infos>
+           <bounds left="1040" top="37297" width="2457" height="3451"/>
+           <prtBounds left="0" top="0" width="2457" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40118968" id="112" symbol="11SwTextFrame" next="113" prev="111" upper="110" txtNodeIndex="491">
+       <infos>
+        <bounds left="999" top="40748" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c22b0" id="286" symbol="19SwFlyAtContentFrame" lower="287">
+         <infos>
+          <bounds left="974" top="40765" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40120dc0" id="287" symbol="11SwTextFrame" upper="286" txtNodeIndex="180">
+          <infos>
+           <bounds left="1138" top="40857" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40118a70" id="113" symbol="11SwTextFrame" next="114" prev="112" upper="110" txtNodeIndex="492">
+       <infos>
+        <bounds left="999" top="41004" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40118b78" id="114" symbol="11SwTextFrame" next="115" prev="113" upper="110" txtNodeIndex="493">
+       <infos>
+        <bounds left="999" top="41260" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40118c80" id="115" symbol="11SwTextFrame" prev="114" upper="110" txtNodeIndex="494">
+       <infos>
+        <bounds left="999" top="41516" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40117828" id="116" symbol="11SwCellFrame" next="120" prev="110" upper="109" lower="117">
+      <infos>
+       <bounds left="3645" top="37287" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40118d88" id="117" symbol="11SwTextFrame" next="118" upper="116" txtNodeIndex="497">
+       <infos>
+        <bounds left="3753" top="37297" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x52fbd10" id="415" symbol="19SwFlyInContentFrame" lower="416">
+         <infos>
+          <bounds left="3809" top="37297" width="2426" height="3451"/>
+          <prtBounds left="0" top="0" width="2426" height="3451"/>
+         </infos>
+         <notxt ptr="0x52fc780" id="416" symbol="13SwNoTextFrame" upper="415">
+          <infos>
+           <bounds left="3809" top="37297" width="2426" height="3451"/>
+           <prtBounds left="0" top="0" width="2426" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40118e90" id="118" symbol="11SwTextFrame" next="119" prev="117" upper="116" txtNodeIndex="498">
+       <infos>
+        <bounds left="3753" top="40748" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c2a70" id="288" symbol="19SwFlyAtContentFrame" lower="289">
+         <infos>
+          <bounds left="3734" top="40765" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40120ec8" id="289" symbol="11SwTextFrame" upper="288" txtNodeIndex="186">
+          <infos>
+           <bounds left="3898" top="40857" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40119028" id="119" symbol="11SwTextFrame" prev="118" upper="116" txtNodeIndex="499">
+       <infos>
+        <bounds left="3753" top="41004" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf401178f8" id="120" symbol="11SwCellFrame" next="122" prev="116" upper="109" lower="121">
+      <infos>
+       <bounds left="6399" top="37287" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40119130" id="121" symbol="11SwTextFrame" upper="120" txtNodeIndex="502">
+       <infos>
+        <bounds left="6507" top="37297" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c3230" id="290" symbol="19SwFlyAtContentFrame" lower="291">
+         <infos>
+          <bounds left="6494" top="40766" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40121000" id="291" symbol="11SwTextFrame" upper="290" txtNodeIndex="189">
+          <infos>
+           <bounds left="6658" top="40858" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x53000e0" id="417" symbol="19SwFlyInContentFrame" lower="418">
+         <infos>
+          <bounds left="6563" top="37297" width="2426" height="3451"/>
+          <prtBounds left="0" top="0" width="2426" height="3451"/>
+         </infos>
+         <notxt ptr="0x5300b50" id="418" symbol="13SwNoTextFrame" upper="417">
+          <infos>
+           <bounds left="6563" top="37297" width="2426" height="3451"/>
+           <prtBounds left="0" top="0" width="2426" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf401179c8" id="122" symbol="11SwCellFrame" prev="120" upper="109" lower="123">
+      <infos>
+       <bounds left="9153" top="37287" width="2764" height="4485"/>
+       <prtBounds left="108" top="10" width="2548" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40119238" id="123" symbol="11SwTextFrame" upper="122" txtNodeIndex="505">
+       <infos>
+        <bounds left="9261" top="37297" width="2548" height="3451"/>
+        <prtBounds left="0" top="0" width="2548" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c3c00" id="292" symbol="19SwFlyAtContentFrame" lower="293">
+         <infos>
+          <bounds left="9284" top="40766" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40121108" id="293" symbol="11SwTextFrame" upper="292" txtNodeIndex="195">
+          <infos>
+           <bounds left="9448" top="40858" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4b31370" id="386" symbol="19SwFlyInContentFrame" lower="387">
+         <infos>
+          <bounds left="9307" top="37297" width="2457" height="3451"/>
+          <prtBounds left="0" top="0" width="2457" height="3451"/>
+         </infos>
+         <notxt ptr="0x4b319b0" id="387" symbol="13SwNoTextFrame" upper="386">
+          <infos>
+           <bounds left="9307" top="37297" width="2457" height="3451"/>
+           <prtBounds left="0" top="0" width="2457" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x7fbf40112740" id="124" symbol="10SwRowFrame" prev="109" upper="95" lower="125">
+     <infos>
+      <bounds left="891" top="41772" width="11026" height="4485"/>
+      <prtBounds left="0" top="0" width="11026" height="4485"/>
+     </infos>
+     <cell ptr="0x7fbf40117a98" id="125" symbol="11SwCellFrame" next="131" upper="124" lower="126">
+      <infos>
+       <bounds left="891" top="41772" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40119340" id="126" symbol="11SwTextFrame" next="127" upper="125" txtNodeIndex="508">
+       <infos>
+        <bounds left="999" top="41782" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x5304540" id="419" symbol="19SwFlyInContentFrame" lower="420">
+         <infos>
+          <bounds left="1040" top="41782" width="2457" height="3451"/>
+          <prtBounds left="0" top="0" width="2457" height="3451"/>
+         </infos>
+         <notxt ptr="0x5304eb0" id="420" symbol="13SwNoTextFrame" upper="419">
+          <infos>
+           <bounds left="1040" top="41782" width="2457" height="3451"/>
+           <prtBounds left="0" top="0" width="2457" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40119448" id="127" symbol="11SwTextFrame" next="128" prev="126" upper="125" txtNodeIndex="509">
+       <infos>
+        <bounds left="999" top="45233" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c43c0" id="294" symbol="19SwFlyAtContentFrame" lower="295">
+         <infos>
+          <bounds left="974" top="45261" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40121210" id="295" symbol="11SwTextFrame" upper="294" txtNodeIndex="204">
+          <infos>
+           <bounds left="1138" top="45353" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40119550" id="128" symbol="11SwTextFrame" next="129" prev="127" upper="125" txtNodeIndex="510">
+       <infos>
+        <bounds left="999" top="45489" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40119658" id="129" symbol="11SwTextFrame" next="130" prev="128" upper="125" txtNodeIndex="511">
+       <infos>
+        <bounds left="999" top="45745" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf40119760" id="130" symbol="11SwTextFrame" prev="129" upper="125" txtNodeIndex="512">
+       <infos>
+        <bounds left="999" top="46001" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40117b68" id="131" symbol="11SwCellFrame" next="133" prev="125" upper="124" lower="132">
+      <infos>
+       <bounds left="3645" top="41772" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40119868" id="132" symbol="11SwTextFrame" upper="131" txtNodeIndex="515">
+       <infos>
+        <bounds left="3753" top="41782" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c4b80" id="296" symbol="19SwFlyAtContentFrame" lower="297">
+         <infos>
+          <bounds left="3749" top="45262" width="2480" height="995"/>
+          <prtBounds left="164" top="92" width="2152" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40121318" id="297" symbol="11SwTextFrame" upper="296" txtNodeIndex="207">
+          <infos>
+           <bounds left="3913" top="45354" width="2152" height="256"/>
+           <prtBounds left="0" top="0" width="2152" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x530a250" id="421" symbol="19SwFlyInContentFrame" lower="422">
+         <infos>
+          <bounds left="3794" top="41782" width="2457" height="3451"/>
+          <prtBounds left="0" top="0" width="2457" height="3451"/>
+         </infos>
+         <notxt ptr="0x530aca0" id="422" symbol="13SwNoTextFrame" upper="421">
+          <infos>
+           <bounds left="3794" top="41782" width="2457" height="3451"/>
+           <prtBounds left="0" top="0" width="2457" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40117c38" id="133" symbol="11SwCellFrame" next="135" prev="131" upper="124" lower="134">
+      <infos>
+       <bounds left="6399" top="41772" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40119970" id="134" symbol="11SwTextFrame" upper="133" txtNodeIndex="518">
+       <infos>
+        <bounds left="6507" top="41782" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c5340" id="298" symbol="19SwFlyAtContentFrame" lower="299">
+         <infos>
+          <bounds left="6479" top="45262" width="2465" height="995"/>
+          <prtBounds left="164" top="92" width="2137" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40121420" id="299" symbol="11SwTextFrame" upper="298" txtNodeIndex="213">
+          <infos>
+           <bounds left="6643" top="45354" width="2137" height="256"/>
+           <prtBounds left="0" top="0" width="2137" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x530bfa0" id="423" symbol="19SwFlyInContentFrame" lower="424">
+         <infos>
+          <bounds left="6560" top="41782" width="2432" height="3451"/>
+          <prtBounds left="0" top="0" width="2432" height="3451"/>
+         </infos>
+         <notxt ptr="0x530c9a0" id="424" symbol="13SwNoTextFrame" upper="423">
+          <infos>
+           <bounds left="6560" top="41782" width="2432" height="3451"/>
+           <prtBounds left="0" top="0" width="2432" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40117d08" id="135" symbol="11SwCellFrame" prev="133" upper="124" lower="136">
+      <infos>
+       <bounds left="9153" top="41772" width="2764" height="4485"/>
+       <prtBounds left="108" top="10" width="2548" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40119a78" id="136" symbol="11SwTextFrame" upper="135" txtNodeIndex="521">
+       <infos>
+        <bounds left="9261" top="41782" width="2548" height="3451"/>
+        <prtBounds left="0" top="0" width="2548" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c5b00" id="300" symbol="19SwFlyAtContentFrame" lower="301">
+         <infos>
+          <bounds left="9284" top="45262" width="2495" height="995"/>
+          <prtBounds left="164" top="92" width="2167" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40121528" id="301" symbol="11SwTextFrame" upper="300" txtNodeIndex="219">
+          <infos>
+           <bounds left="9448" top="45354" width="2167" height="256"/>
+           <prtBounds left="0" top="0" width="2167" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4b31aa0" id="384" symbol="19SwFlyInContentFrame" lower="385">
+         <infos>
+          <bounds left="9307" top="41782" width="2457" height="3451"/>
+          <prtBounds left="0" top="0" width="2457" height="3451"/>
+         </infos>
+         <notxt ptr="0x4b32250" id="385" symbol="13SwNoTextFrame" upper="384">
+          <infos>
+           <bounds left="9307" top="41782" width="2457" height="3451"/>
+           <prtBounds left="0" top="0" width="2457" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x7fbf40119b80" id="137" symbol="11SwTextFrame" next="138" prev="95" upper="412" txtNodeIndex="524">
+    <infos>
+     <bounds left="1004" top="46267" width="10800" height="373"/>
+     <prtBounds left="0" top="0" width="10800" height="373"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x43c62c0" id="302" symbol="19SwFlyAtContentFrame" lower="303">
+      <infos>
+       <bounds left="982" top="46656" width="11114" height="539"/>
+       <prtBounds left="159" top="87" width="10796" height="365"/>
+      </infos>
+      <txt ptr="0x7fbf40121630" id="303" symbol="11SwTextFrame" upper="302" txtNodeIndex="225">
+       <infos>
+        <bounds left="1141" top="46743" width="10796" height="280"/>
+        <prtBounds left="0" top="0" width="10796" height="280"/>
+       </infos>
+Printgames.ru       <Finish/>
+      </txt>
+     </fly>
+    </anchored>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7fbf40119c88" id="138" symbol="11SwTextFrame" next="139" prev="137" upper="412" txtNodeIndex="525">
+    <infos>
+     <bounds left="1004" top="46640" width="10800" height="628"/>
+     <prtBounds left="0" top="255" width="10800" height="373"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7fbf40119d90" id="139" symbol="11SwTextFrame" prev="138" upper="412" txtNodeIndex="526">
+    <infos>
+     <bounds left="1004" top="47268" width="10800" height="628"/>
+     <prtBounds left="0" top="255" width="10800" height="373"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x7fbf4012d2b8" id="458" symbol="11SwPageFrame" next="485" prev="411" upper="0" lower="459">
+  <infos>
+   <bounds left="284" top="48656" width="12240" height="15840"/>
+   <prtBounds left="720" top="270" width="10800" height="15480"/>
+  </infos>
+  <body ptr="0x7fbf4012f258" id="459" symbol="11SwBodyFrame" upper="458" lower="140">
+   <infos>
+    <bounds left="1004" top="48926" width="10800" height="15480"/>
+    <prtBounds left="0" top="0" width="10800" height="15480"/>
+   </infos>
+   <tab ptr="0x7fbf40131300" id="140" symbol="10SwTabFrame" next="183" upper="459" lower="141">
+    <infos>
+     <bounds left="1004" top="48926" width="10800" height="13465"/>
+     <prtBounds left="-113" top="0" width="11026" height="13455"/>
+    </infos>
+    <row ptr="0x7fbf40112828" id="141" symbol="10SwRowFrame" next="154" upper="140" lower="142">
+     <infos>
+      <bounds left="891" top="48926" width="11026" height="4485"/>
+      <prtBounds left="0" top="0" width="11026" height="4485"/>
+     </infos>
+     <cell ptr="0x7fbf40117dd8" id="142" symbol="11SwCellFrame" next="148" upper="141" lower="143">
+      <infos>
+       <bounds left="891" top="48926" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf40119e98" id="143" symbol="11SwTextFrame" next="144" upper="142" txtNodeIndex="529">
+       <infos>
+        <bounds left="999" top="48936" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x535e140" id="443" symbol="19SwFlyInContentFrame" lower="444">
+         <infos>
+          <bounds left="1040" top="48936" width="2457" height="3451"/>
+          <prtBounds left="0" top="0" width="2457" height="3451"/>
+         </infos>
+         <notxt ptr="0x534c1f0" id="444" symbol="13SwNoTextFrame" upper="443">
+          <infos>
+           <bounds left="1040" top="48936" width="2457" height="3451"/>
+           <prtBounds left="0" top="0" width="2457" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011a030" id="144" symbol="11SwTextFrame" next="145" prev="143" upper="142" txtNodeIndex="530">
+       <infos>
+        <bounds left="999" top="52387" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c6a80" id="304" symbol="19SwFlyAtContentFrame" lower="305">
+         <infos>
+          <bounds left="974" top="52445" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40121738" id="305" symbol="11SwTextFrame" upper="304" txtNodeIndex="231">
+          <infos>
+           <bounds left="1138" top="52537" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011a138" id="145" symbol="11SwTextFrame" next="146" prev="144" upper="142" txtNodeIndex="531">
+       <infos>
+        <bounds left="999" top="52643" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011a240" id="146" symbol="11SwTextFrame" next="147" prev="145" upper="142" txtNodeIndex="532">
+       <infos>
+        <bounds left="999" top="52899" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011a348" id="147" symbol="11SwTextFrame" prev="146" upper="142" txtNodeIndex="533">
+       <infos>
+        <bounds left="999" top="53155" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf40117ea8" id="148" symbol="11SwCellFrame" next="150" prev="142" upper="141" lower="149">
+      <infos>
+       <bounds left="3645" top="48926" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf4011a450" id="149" symbol="11SwTextFrame" upper="148" txtNodeIndex="536">
+       <infos>
+        <bounds left="3753" top="48936" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c7240" id="306" symbol="19SwFlyAtContentFrame" lower="307">
+         <infos>
+          <bounds left="3734" top="52446" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40121840" id="307" symbol="11SwTextFrame" upper="306" txtNodeIndex="234">
+          <infos>
+           <bounds left="3898" top="52538" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x5364ab0" id="451" symbol="19SwFlyInContentFrame" lower="452">
+         <infos>
+          <bounds left="3788" top="48936" width="2469" height="3451"/>
+          <prtBounds left="0" top="0" width="2469" height="3451"/>
+         </infos>
+         <notxt ptr="0x5365650" id="452" symbol="13SwNoTextFrame" upper="451">
+          <infos>
+           <bounds left="3788" top="48936" width="2469" height="3451"/>
+           <prtBounds left="0" top="0" width="2469" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf4011b010" id="150" symbol="11SwCellFrame" next="152" prev="148" upper="141" lower="151">
+      <infos>
+       <bounds left="6399" top="48926" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf4011a558" id="151" symbol="11SwTextFrame" upper="150" txtNodeIndex="539">
+       <infos>
+        <bounds left="6507" top="48936" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c7a00" id="308" symbol="19SwFlyAtContentFrame" lower="309">
+         <infos>
+          <bounds left="6479" top="52446" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40121948" id="309" symbol="11SwTextFrame" upper="308" txtNodeIndex="240">
+          <infos>
+           <bounds left="6643" top="52538" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x52ef240" id="454" symbol="19SwFlyInContentFrame" lower="455">
+         <infos>
+          <bounds left="6557" top="48936" width="2439" height="3451"/>
+          <prtBounds left="0" top="0" width="2439" height="3451"/>
+         </infos>
+         <notxt ptr="0x533c5b0" id="455" symbol="13SwNoTextFrame" upper="454">
+          <infos>
+           <bounds left="6557" top="48936" width="2439" height="3451"/>
+           <prtBounds left="0" top="0" width="2439" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf4011b0e0" id="152" symbol="11SwCellFrame" prev="150" upper="141" lower="153">
+      <infos>
+       <bounds left="9153" top="48926" width="2764" height="4485"/>
+       <prtBounds left="108" top="10" width="2548" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf4011a660" id="153" symbol="11SwTextFrame" upper="152" txtNodeIndex="542">
+       <infos>
+        <bounds left="9261" top="48936" width="2548" height="3451"/>
+        <prtBounds left="0" top="0" width="2548" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c81c0" id="310" symbol="19SwFlyAtContentFrame" lower="311">
+         <infos>
+          <bounds left="9284" top="52446" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40121a50" id="311" symbol="11SwTextFrame" upper="310" txtNodeIndex="246">
+          <infos>
+           <bounds left="9448" top="52538" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4b2fb90" id="382" symbol="19SwFlyInContentFrame" lower="383">
+         <infos>
+          <bounds left="9308" top="48936" width="2454" height="3451"/>
+          <prtBounds left="0" top="0" width="2454" height="3451"/>
+         </infos>
+         <notxt ptr="0x4b30b10" id="383" symbol="13SwNoTextFrame" upper="382">
+          <infos>
+           <bounds left="9308" top="48936" width="2454" height="3451"/>
+           <prtBounds left="0" top="0" width="2454" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x7fbf40112910" id="154" symbol="10SwRowFrame" next="167" prev="141" upper="140" lower="155">
+     <infos>
+      <bounds left="891" top="53411" width="11026" height="4485"/>
+      <prtBounds left="0" top="0" width="11026" height="4485"/>
+     </infos>
+     <cell ptr="0x7fbf4011b1b0" id="155" symbol="11SwCellFrame" next="161" upper="154" lower="156">
+      <infos>
+       <bounds left="891" top="53411" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf4011a768" id="156" symbol="11SwTextFrame" next="157" upper="155" txtNodeIndex="545">
+       <infos>
+        <bounds left="999" top="53421" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x535a9c0" id="460" symbol="19SwFlyInContentFrame" lower="461">
+         <infos>
+          <bounds left="1041" top="53421" width="2454" height="3451"/>
+          <prtBounds left="0" top="0" width="2454" height="3451"/>
+         </infos>
+         <notxt ptr="0x5348a70" id="461" symbol="13SwNoTextFrame" upper="460">
+          <infos>
+           <bounds left="1041" top="53421" width="2454" height="3451"/>
+           <prtBounds left="0" top="0" width="2454" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011a870" id="157" symbol="11SwTextFrame" next="158" prev="156" upper="155" txtNodeIndex="546">
+       <infos>
+        <bounds left="999" top="56872" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c8980" id="312" symbol="19SwFlyAtContentFrame" lower="313">
+         <infos>
+          <bounds left="974" top="56866" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40121b58" id="313" symbol="11SwTextFrame" upper="312" txtNodeIndex="255">
+          <infos>
+           <bounds left="1138" top="56958" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011a978" id="158" symbol="11SwTextFrame" next="159" prev="157" upper="155" txtNodeIndex="547">
+       <infos>
+        <bounds left="999" top="57128" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011aa80" id="159" symbol="11SwTextFrame" next="160" prev="158" upper="155" txtNodeIndex="548">
+       <infos>
+        <bounds left="999" top="57384" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011ab88" id="160" symbol="11SwTextFrame" prev="159" upper="155" txtNodeIndex="549">
+       <infos>
+        <bounds left="999" top="57640" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf4011b280" id="161" symbol="11SwCellFrame" next="163" prev="155" upper="154" lower="162">
+      <infos>
+       <bounds left="3645" top="53411" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf4011ac90" id="162" symbol="11SwTextFrame" upper="161" txtNodeIndex="552">
+       <infos>
+        <bounds left="3753" top="53421" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c9140" id="314" symbol="19SwFlyAtContentFrame" lower="315">
+         <infos>
+          <bounds left="3734" top="56867" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40121c60" id="315" symbol="11SwTextFrame" upper="314" txtNodeIndex="258">
+          <infos>
+           <bounds left="3898" top="56959" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x534fa90" id="462" symbol="19SwFlyInContentFrame" lower="463">
+         <infos>
+          <bounds left="3795" top="53421" width="2454" height="3451"/>
+          <prtBounds left="0" top="0" width="2454" height="3451"/>
+         </infos>
+         <notxt ptr="0x5350a60" id="463" symbol="13SwNoTextFrame" upper="462">
+          <infos>
+           <bounds left="3795" top="53421" width="2454" height="3451"/>
+           <prtBounds left="0" top="0" width="2454" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf4011b350" id="163" symbol="11SwCellFrame" next="165" prev="161" upper="154" lower="164">
+      <infos>
+       <bounds left="6399" top="53411" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf4011ad98" id="164" symbol="11SwTextFrame" upper="163" txtNodeIndex="555">
+       <infos>
+        <bounds left="6507" top="53421" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43c9900" id="316" symbol="19SwFlyAtContentFrame" lower="317">
+         <infos>
+          <bounds left="6494" top="56867" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40121d68" id="317" symbol="11SwTextFrame" upper="316" txtNodeIndex="264">
+          <infos>
+           <bounds left="6658" top="56959" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x449a650" id="464" symbol="19SwFlyInContentFrame" lower="465">
+         <infos>
+          <bounds left="6559" top="53421" width="2435" height="3451"/>
+          <prtBounds left="0" top="0" width="2435" height="3451"/>
+         </infos>
+         <notxt ptr="0x449b1f0" id="465" symbol="13SwNoTextFrame" upper="464">
+          <infos>
+           <bounds left="6559" top="53421" width="2435" height="3451"/>
+           <prtBounds left="0" top="0" width="2435" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf4011b420" id="165" symbol="11SwCellFrame" prev="163" upper="154" lower="166">
+      <infos>
+       <bounds left="9153" top="53411" width="2764" height="4485"/>
+       <prtBounds left="108" top="10" width="2548" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf4011aea0" id="166" symbol="11SwTextFrame" upper="165" txtNodeIndex="558">
+       <infos>
+        <bounds left="9261" top="53421" width="2548" height="3451"/>
+        <prtBounds left="0" top="0" width="2548" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43ca0c0" id="318" symbol="19SwFlyAtContentFrame" lower="319">
+         <infos>
+          <bounds left="9284" top="56867" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40121e70" id="319" symbol="11SwTextFrame" upper="318" txtNodeIndex="270">
+          <infos>
+           <bounds left="9448" top="56959" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4b2f060" id="380" symbol="19SwFlyInContentFrame" lower="381">
+         <infos>
+          <bounds left="9308" top="53421" width="2454" height="3451"/>
+          <prtBounds left="0" top="0" width="2454" height="3451"/>
+         </infos>
+         <notxt ptr="0x4b2f8e0" id="381" symbol="13SwNoTextFrame" upper="380">
+          <infos>
+           <bounds left="9308" top="53421" width="2454" height="3451"/>
+           <prtBounds left="0" top="0" width="2454" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x7fbf401129f8" id="167" symbol="10SwRowFrame" prev="154" upper="140" lower="168">
+     <infos>
+      <bounds left="891" top="57896" width="11026" height="4485"/>
+      <prtBounds left="0" top="0" width="11026" height="4485"/>
+     </infos>
+     <cell ptr="0x7fbf4011b4f0" id="168" symbol="11SwCellFrame" next="174" upper="167" lower="169">
+      <infos>
+       <bounds left="891" top="57896" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf4011c038" id="169" symbol="11SwTextFrame" next="170" upper="168" txtNodeIndex="561">
+       <infos>
+        <bounds left="999" top="57906" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x535f7a0" id="466" symbol="19SwFlyInContentFrame" lower="467">
+         <infos>
+          <bounds left="1048" top="57906" width="2441" height="3451"/>
+          <prtBounds left="0" top="0" width="2441" height="3451"/>
+         </infos>
+         <notxt ptr="0x5360330" id="467" symbol="13SwNoTextFrame" upper="466">
+          <infos>
+           <bounds left="1048" top="57906" width="2441" height="3451"/>
+           <prtBounds left="0" top="0" width="2441" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011c140" id="170" symbol="11SwTextFrame" next="171" prev="169" upper="168" txtNodeIndex="562">
+       <infos>
+        <bounds left="999" top="61357" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43ca880" id="320" symbol="19SwFlyAtContentFrame" lower="321">
+         <infos>
+          <bounds left="974" top="61374" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40102008" id="321" symbol="11SwTextFrame" upper="320" txtNodeIndex="279">
+          <infos>
+           <bounds left="1138" top="61466" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011c248" id="171" symbol="11SwTextFrame" next="172" prev="170" upper="168" txtNodeIndex="563">
+       <infos>
+        <bounds left="999" top="61613" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011c350" id="172" symbol="11SwTextFrame" next="173" prev="171" upper="168" txtNodeIndex="564">
+       <infos>
+        <bounds left="999" top="61869" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011c458" id="173" symbol="11SwTextFrame" prev="172" upper="168" txtNodeIndex="565">
+       <infos>
+        <bounds left="999" top="62125" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf4011b5c0" id="174" symbol="11SwCellFrame" next="178" prev="168" upper="167" lower="175">
+      <infos>
+       <bounds left="3645" top="57896" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf4011c560" id="175" symbol="11SwTextFrame" next="176" upper="174" txtNodeIndex="568">
+       <infos>
+        <bounds left="3753" top="57906" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x536c030" id="468" symbol="19SwFlyInContentFrame" lower="469">
+         <infos>
+          <bounds left="3795" top="57906" width="2454" height="3451"/>
+          <prtBounds left="0" top="0" width="2454" height="3451"/>
+         </infos>
+         <notxt ptr="0x536cc90" id="469" symbol="13SwNoTextFrame" upper="468">
+          <infos>
+           <bounds left="3795" top="57906" width="2454" height="3451"/>
+           <prtBounds left="0" top="0" width="2454" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011c668" id="176" symbol="11SwTextFrame" next="177" prev="175" upper="174" txtNodeIndex="569">
+       <infos>
+        <bounds left="3753" top="61357" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43cb040" id="322" symbol="19SwFlyAtContentFrame" lower="323">
+         <infos>
+          <bounds left="3734" top="61374" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40102110" id="323" symbol="11SwTextFrame" upper="322" txtNodeIndex="285">
+          <infos>
+           <bounds left="3898" top="61466" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011c770" id="177" symbol="11SwTextFrame" prev="176" upper="174" txtNodeIndex="570">
+       <infos>
+        <bounds left="3753" top="61613" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf4011b690" id="178" symbol="11SwCellFrame" next="181" prev="174" upper="167" lower="179">
+      <infos>
+       <bounds left="6399" top="57896" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf4011c878" id="179" symbol="11SwTextFrame" next="180" upper="178" txtNodeIndex="573">
+       <infos>
+        <bounds left="6507" top="57906" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x53524b0" id="470" symbol="19SwFlyInContentFrame" lower="471">
+         <infos>
+          <bounds left="6548" top="57906" width="2457" height="3451"/>
+          <prtBounds left="0" top="0" width="2457" height="3451"/>
+         </infos>
+         <notxt ptr="0x53530f0" id="471" symbol="13SwNoTextFrame" upper="470">
+          <infos>
+           <bounds left="6548" top="57906" width="2457" height="3451"/>
+           <prtBounds left="0" top="0" width="2457" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011c980" id="180" symbol="11SwTextFrame" prev="179" upper="178" txtNodeIndex="574">
+       <infos>
+        <bounds left="6507" top="61357" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43cb800" id="324" symbol="19SwFlyAtContentFrame" lower="325">
+         <infos>
+          <bounds left="6494" top="61374" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40102218" id="325" symbol="11SwTextFrame" upper="324" txtNodeIndex="291">
+          <infos>
+           <bounds left="6658" top="61466" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf4011b760" id="181" symbol="11SwCellFrame" prev="178" upper="167" lower="182">
+      <infos>
+       <bounds left="9153" top="57896" width="2764" height="4485"/>
+       <prtBounds left="108" top="10" width="2548" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf4011ca88" id="182" symbol="11SwTextFrame" upper="181" txtNodeIndex="577">
+       <infos>
+        <bounds left="9261" top="57906" width="2548" height="3451"/>
+        <prtBounds left="0" top="0" width="2548" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43cbfc0" id="326" symbol="19SwFlyAtContentFrame" lower="327">
+         <infos>
+          <bounds left="9284" top="61375" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40102320" id="327" symbol="11SwTextFrame" upper="326" txtNodeIndex="294">
+          <infos>
+           <bounds left="9448" top="61467" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4b2fd60" id="378" symbol="19SwFlyInContentFrame" lower="379">
+         <infos>
+          <bounds left="9308" top="57906" width="2454" height="3451"/>
+          <prtBounds left="0" top="0" width="2454" height="3451"/>
+         </infos>
+         <notxt ptr="0x4b304b0" id="379" symbol="13SwNoTextFrame" upper="378">
+          <infos>
+           <bounds left="9308" top="57906" width="2454" height="3451"/>
+           <prtBounds left="0" top="0" width="2454" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x7fbf4011cb90" id="183" symbol="11SwTextFrame" next="184" prev="140" upper="459" txtNodeIndex="580">
+    <infos>
+     <bounds left="1004" top="62391" width="10800" height="256"/>
+     <prtBounds left="0" top="0" width="10800" height="256"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7fbf4011cc98" id="184" symbol="11SwTextFrame" next="185" prev="183" upper="459" txtNodeIndex="581">
+    <infos>
+     <bounds left="1004" top="62647" width="10800" height="494"/>
+     <prtBounds left="0" top="238" width="10800" height="256"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x43cc780" id="328" symbol="19SwFlyAtContentFrame" lower="329">
+      <infos>
+       <bounds left="982" top="62930" width="11114" height="539"/>
+       <prtBounds left="159" top="87" width="10796" height="365"/>
+      </infos>
+      <txt ptr="0x7fbf40102428" id="329" symbol="11SwTextFrame" upper="328" txtNodeIndex="300">
+       <infos>
+        <bounds left="1141" top="63017" width="10796" height="280"/>
+        <prtBounds left="0" top="0" width="10796" height="280"/>
+       </infos>
+Printgames.ru       <Finish/>
+      </txt>
+     </fly>
+    </anchored>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7fbf4011cda0" id="185" symbol="11SwTextFrame" prev="184" upper="459" txtNodeIndex="582">
+    <infos>
+     <bounds left="1004" top="63141" width="10800" height="494"/>
+     <prtBounds left="0" top="238" width="10800" height="256"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x7fbf4012d3a0" id="485" symbol="11SwPageFrame" prev="458" upper="0" lower="486">
+  <infos>
+   <bounds left="284" top="64780" width="12240" height="15840"/>
+   <prtBounds left="720" top="270" width="10800" height="15480"/>
+  </infos>
+  <body ptr="0x7fbf4012f320" id="486" symbol="11SwBodyFrame" upper="485" lower="186">
+   <infos>
+    <bounds left="1004" top="65050" width="10800" height="15480"/>
+    <prtBounds left="0" top="0" width="10800" height="15480"/>
+   </infos>
+   <tab ptr="0x7fbf40131400" id="186" symbol="10SwTabFrame" next="219" upper="486" lower="187">
+    <infos>
+     <bounds left="1004" top="65050" width="10800" height="8985"/>
+     <prtBounds left="-113" top="0" width="11026" height="8975"/>
+    </infos>
+    <row ptr="0x7fbf40112ae0" id="187" symbol="10SwRowFrame" next="203" upper="186" lower="188">
+     <infos>
+      <bounds left="891" top="65050" width="11026" height="4485"/>
+      <prtBounds left="0" top="0" width="11026" height="4485"/>
+     </infos>
+     <cell ptr="0x7fbf4011b830" id="188" symbol="11SwCellFrame" next="194" upper="187" lower="189">
+      <infos>
+       <bounds left="891" top="65050" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf4011cea8" id="189" symbol="11SwTextFrame" next="190" upper="188" txtNodeIndex="585">
+       <infos>
+        <bounds left="999" top="65060" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x5617310" id="472" symbol="19SwFlyInContentFrame" lower="473">
+         <infos>
+          <bounds left="1040" top="65060" width="2456" height="3451"/>
+          <prtBounds left="0" top="0" width="2456" height="3451"/>
+         </infos>
+         <notxt ptr="0x5352c50" id="473" symbol="13SwNoTextFrame" upper="472">
+          <infos>
+           <bounds left="1040" top="65060" width="2456" height="3451"/>
+           <prtBounds left="0" top="0" width="2456" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011d040" id="190" symbol="11SwTextFrame" next="191" prev="189" upper="188" txtNodeIndex="586">
+       <infos>
+        <bounds left="999" top="68511" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43ccf40" id="330" symbol="19SwFlyAtContentFrame" lower="331">
+         <infos>
+          <bounds left="974" top="68528" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40102530" id="331" symbol="11SwTextFrame" upper="330" txtNodeIndex="306">
+          <infos>
+           <bounds left="1138" top="68620" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011d148" id="191" symbol="11SwTextFrame" next="192" prev="190" upper="188" txtNodeIndex="587">
+       <infos>
+        <bounds left="999" top="68767" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011d250" id="192" symbol="11SwTextFrame" next="193" prev="191" upper="188" txtNodeIndex="588">
+       <infos>
+        <bounds left="999" top="69023" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011d358" id="193" symbol="11SwTextFrame" prev="192" upper="188" txtNodeIndex="589">
+       <infos>
+        <bounds left="999" top="69279" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf4011b900" id="194" symbol="11SwCellFrame" next="198" prev="188" upper="187" lower="195">
+      <infos>
+       <bounds left="3645" top="65050" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf4011d460" id="195" symbol="11SwTextFrame" next="196" upper="194" txtNodeIndex="592">
+       <infos>
+        <bounds left="3753" top="65060" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x5619c80" id="480" symbol="19SwFlyInContentFrame" lower="481">
+         <infos>
+          <bounds left="3795" top="65060" width="2454" height="3451"/>
+          <prtBounds left="0" top="0" width="2454" height="3451"/>
+         </infos>
+         <notxt ptr="0x535b0a0" id="481" symbol="13SwNoTextFrame" upper="480">
+          <infos>
+           <bounds left="3795" top="65060" width="2454" height="3451"/>
+           <prtBounds left="0" top="0" width="2454" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011d568" id="196" symbol="11SwTextFrame" next="197" prev="195" upper="194" txtNodeIndex="593">
+       <infos>
+        <bounds left="3753" top="68511" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43cd700" id="332" symbol="19SwFlyAtContentFrame" lower="333">
+         <infos>
+          <bounds left="3734" top="68528" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40102638" id="333" symbol="11SwTextFrame" upper="332" txtNodeIndex="312">
+          <infos>
+           <bounds left="3898" top="68620" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011d670" id="197" symbol="11SwTextFrame" prev="196" upper="194" txtNodeIndex="594">
+       <infos>
+        <bounds left="3753" top="68767" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf4011b9d0" id="198" symbol="11SwCellFrame" next="201" prev="194" upper="187" lower="199">
+      <infos>
+       <bounds left="6399" top="65050" width="2754" height="4485"/>
+       <prtBounds left="108" top="10" width="2538" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf4011d778" id="199" symbol="11SwTextFrame" next="200" upper="198" txtNodeIndex="597">
+       <infos>
+        <bounds left="6507" top="65060" width="2538" height="3451"/>
+        <prtBounds left="0" top="0" width="2538" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x561ac10" id="482" symbol="19SwFlyInContentFrame" lower="483">
+         <infos>
+          <bounds left="6565" top="65060" width="2423" height="3451"/>
+          <prtBounds left="0" top="0" width="2423" height="3451"/>
+         </infos>
+         <notxt ptr="0x535fe90" id="483" symbol="13SwNoTextFrame" upper="482">
+          <infos>
+           <bounds left="6565" top="65060" width="2423" height="3451"/>
+           <prtBounds left="0" top="0" width="2423" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011d880" id="200" symbol="11SwTextFrame" prev="199" upper="198" txtNodeIndex="598">
+       <infos>
+        <bounds left="6507" top="68511" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43cdec0" id="334" symbol="19SwFlyAtContentFrame" lower="335">
+         <infos>
+          <bounds left="6494" top="68528" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40102740" id="335" symbol="11SwTextFrame" upper="334" txtNodeIndex="318">
+          <infos>
+           <bounds left="6658" top="68620" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf4011baa0" id="201" symbol="11SwCellFrame" prev="198" upper="187" lower="202">
+      <infos>
+       <bounds left="9153" top="65050" width="2764" height="4485"/>
+       <prtBounds left="108" top="10" width="2548" height="4475"/>
+      </infos>
+      <txt ptr="0x7fbf4011d988" id="202" symbol="11SwTextFrame" upper="201" txtNodeIndex="601">
+       <infos>
+        <bounds left="9261" top="65060" width="2548" height="3451"/>
+        <prtBounds left="0" top="0" width="2548" height="3451"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43ce680" id="336" symbol="19SwFlyAtContentFrame" lower="337">
+         <infos>
+          <bounds left="9284" top="68528" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40102848" id="337" symbol="11SwTextFrame" upper="336" txtNodeIndex="321">
+          <infos>
+           <bounds left="9448" top="68620" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4b2e740" id="376" symbol="19SwFlyInContentFrame" lower="377">
+         <infos>
+          <bounds left="9308" top="65060" width="2454" height="3451"/>
+          <prtBounds left="0" top="0" width="2454" height="3451"/>
+         </infos>
+         <notxt ptr="0x4b2ed20" id="377" symbol="13SwNoTextFrame" upper="376">
+          <infos>
+           <bounds left="9308" top="65060" width="2454" height="3451"/>
+           <prtBounds left="0" top="0" width="2454" height="3451"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x7fbf40112bc8" id="203" symbol="10SwRowFrame" prev="187" upper="186" lower="204">
+     <infos>
+      <bounds left="891" top="69535" width="11026" height="4490"/>
+      <prtBounds left="0" top="0" width="11026" height="4490"/>
+     </infos>
+     <cell ptr="0x7fbf4011bb70" id="204" symbol="11SwCellFrame" next="210" upper="203" lower="205">
+      <infos>
+       <bounds left="891" top="69535" width="2754" height="4490"/>
+       <prtBounds left="108" top="10" width="2538" height="4480"/>
+      </infos>
+      <txt ptr="0x7fbf4011da90" id="205" symbol="11SwTextFrame" next="206" upper="204" txtNodeIndex="604">
+       <infos>
+        <bounds left="999" top="69545" width="2538" height="3456"/>
+        <prtBounds left="0" top="0" width="2538" height="3456"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x5622f40" id="487" symbol="19SwFlyInContentFrame" lower="488">
+         <infos>
+          <bounds left="1139" top="69545" width="2259" height="3456"/>
+          <prtBounds left="0" top="0" width="2259" height="3456"/>
+         </infos>
+         <notxt ptr="0x536c7f0" id="488" symbol="13SwNoTextFrame" upper="487">
+          <infos>
+           <bounds left="1139" top="69545" width="2259" height="3456"/>
+           <prtBounds left="0" top="0" width="2259" height="3456"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011db98" id="206" symbol="11SwTextFrame" next="207" prev="205" upper="204" txtNodeIndex="605">
+       <infos>
+        <bounds left="999" top="73001" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43cee40" id="338" symbol="19SwFlyAtContentFrame" lower="339">
+         <infos>
+          <bounds left="974" top="73018" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40102950" id="339" symbol="11SwTextFrame" upper="338" txtNodeIndex="330">
+          <infos>
+           <bounds left="1138" top="73110" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011dca0" id="207" symbol="11SwTextFrame" next="208" prev="206" upper="204" txtNodeIndex="606">
+       <infos>
+        <bounds left="999" top="73257" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011dda8" id="208" symbol="11SwTextFrame" next="209" prev="207" upper="204" txtNodeIndex="607">
+       <infos>
+        <bounds left="999" top="73513" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011deb0" id="209" symbol="11SwTextFrame" prev="208" upper="204" txtNodeIndex="608">
+       <infos>
+        <bounds left="999" top="73769" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf4011bc40" id="210" symbol="11SwCellFrame" next="214" prev="204" upper="203" lower="211">
+      <infos>
+       <bounds left="3645" top="69535" width="2754" height="4490"/>
+       <prtBounds left="108" top="10" width="2538" height="4480"/>
+      </infos>
+      <txt ptr="0x7fbf4011e048" id="211" symbol="11SwTextFrame" next="212" upper="210" txtNodeIndex="611">
+       <infos>
+        <bounds left="3753" top="69545" width="2538" height="3456"/>
+        <prtBounds left="0" top="0" width="2538" height="3456"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x5627260" id="489" symbol="19SwFlyInContentFrame" lower="490">
+         <infos>
+          <bounds left="3893" top="69545" width="2259" height="3456"/>
+          <prtBounds left="0" top="0" width="2259" height="3456"/>
+         </infos>
+         <notxt ptr="0x5627800" id="490" symbol="13SwNoTextFrame" upper="489">
+          <infos>
+           <bounds left="3893" top="69545" width="2259" height="3456"/>
+           <prtBounds left="0" top="0" width="2259" height="3456"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011e150" id="212" symbol="11SwTextFrame" next="213" prev="211" upper="210" txtNodeIndex="612">
+       <infos>
+        <bounds left="3753" top="73001" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43cf600" id="340" symbol="19SwFlyAtContentFrame" lower="341">
+         <infos>
+          <bounds left="3734" top="73018" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40102a58" id="341" symbol="11SwTextFrame" upper="340" txtNodeIndex="336">
+          <infos>
+           <bounds left="3898" top="73110" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011e258" id="213" symbol="11SwTextFrame" prev="212" upper="210" txtNodeIndex="613">
+       <infos>
+        <bounds left="3753" top="73257" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf4011bd10" id="214" symbol="11SwCellFrame" next="217" prev="210" upper="203" lower="215">
+      <infos>
+       <bounds left="6399" top="69535" width="2754" height="4490"/>
+       <prtBounds left="108" top="10" width="2538" height="4480"/>
+      </infos>
+      <txt ptr="0x7fbf4011e360" id="215" symbol="11SwTextFrame" next="216" upper="214" txtNodeIndex="616">
+       <infos>
+        <bounds left="6507" top="69545" width="2538" height="3456"/>
+        <prtBounds left="0" top="0" width="2538" height="3456"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x562aef0" id="491" symbol="19SwFlyInContentFrame" lower="492">
+         <infos>
+          <bounds left="6647" top="69545" width="2259" height="3456"/>
+          <prtBounds left="0" top="0" width="2259" height="3456"/>
+         </infos>
+         <notxt ptr="0x562b590" id="492" symbol="13SwNoTextFrame" upper="491">
+          <infos>
+           <bounds left="6647" top="69545" width="2259" height="3456"/>
+           <prtBounds left="0" top="0" width="2259" height="3456"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+      <txt ptr="0x7fbf4011e468" id="216" symbol="11SwTextFrame" prev="215" upper="214" txtNodeIndex="617">
+       <infos>
+        <bounds left="6507" top="73001" width="2538" height="256"/>
+        <prtBounds left="0" top="0" width="2538" height="256"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43cfdc0" id="342" symbol="19SwFlyAtContentFrame" lower="343">
+         <infos>
+          <bounds left="6494" top="73018" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40102b60" id="343" symbol="11SwTextFrame" upper="342" txtNodeIndex="342">
+          <infos>
+           <bounds left="6658" top="73110" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+       </anchored>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7fbf4011bde0" id="217" symbol="11SwCellFrame" prev="214" upper="203" lower="218">
+      <infos>
+       <bounds left="9153" top="69535" width="2764" height="4490"/>
+       <prtBounds left="108" top="10" width="2548" height="4480"/>
+      </infos>
+      <txt ptr="0x7fbf4011e570" id="218" symbol="11SwTextFrame" upper="217" txtNodeIndex="620">
+       <infos>
+        <bounds left="9261" top="69545" width="2548" height="3456"/>
+        <prtBounds left="0" top="0" width="2548" height="3456"/>
+       </infos>
+       <anchored>
+        <fly ptr="0x43d0580" id="344" symbol="19SwFlyAtContentFrame" lower="345">
+         <infos>
+          <bounds left="9284" top="73013" width="2540" height="995"/>
+          <prtBounds left="164" top="92" width="2212" height="811"/>
+         </infos>
+         <txt ptr="0x7fbf40102c68" id="345" symbol="11SwTextFrame" upper="344" txtNodeIndex="345">
+          <infos>
+           <bounds left="9448" top="73105" width="2212" height="256"/>
+           <prtBounds left="0" top="0" width="2212" height="256"/>
+          </infos>
+          <Finish/>
+         </txt>
+        </fly>
+        <fly ptr="0x4b1c060" id="374" symbol="19SwFlyInContentFrame" lower="375">
+         <infos>
+          <bounds left="9406" top="69545" width="2259" height="3456"/>
+          <prtBounds left="0" top="0" width="2259" height="3456"/>
+         </infos>
+         <notxt ptr="0x4b2e470" id="375" symbol="13SwNoTextFrame" upper="374">
+          <infos>
+           <bounds left="9406" top="69545" width="2259" height="3456"/>
+           <prtBounds left="0" top="0" width="2259" height="3456"/>
+          </infos>
+         </notxt>
+        </fly>
+       </anchored>
+*       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x7fbf4011e678" id="219" symbol="11SwTextFrame" next="220" prev="186" upper="486" txtNodeIndex="623">
+    <infos>
+     <bounds left="1004" top="74035" width="10800" height="256"/>
+     <prtBounds left="0" top="0" width="10800" height="256"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7fbf4011e780" id="220" symbol="11SwTextFrame" next="221" prev="219" upper="486" txtNodeIndex="624">
+    <infos>
+     <bounds left="1004" top="74291" width="10800" height="1076"/>
+     <prtBounds left="720" top="238" width="10080" height="838"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7fbf4011e888" id="221" symbol="11SwTextFrame" next="222" prev="220" upper="486" txtNodeIndex="625">
+    <infos>
+     <bounds left="1004" top="75367" width="10800" height="1163"/>
+     <prtBounds left="720" top="325" width="10080" height="838"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7fbf4011e990" id="222" symbol="11SwTextFrame" next="223" prev="221" upper="486" txtNodeIndex="626">
+    <infos>
+     <bounds left="1004" top="76530" width="10800" height="1163"/>
+     <prtBounds left="720" top="325" width="10080" height="838"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7fbf4011ea98" id="223" symbol="11SwTextFrame" next="224" prev="222" upper="486" txtNodeIndex="627">
+    <infos>
+     <bounds left="1004" top="77693" width="10800" height="1163"/>
+     <prtBounds left="720" top="325" width="10080" height="838"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x43d0d40" id="346" symbol="19SwFlyAtContentFrame" lower="347">
+      <infos>
+       <bounds left="982" top="78464" width="11114" height="539"/>
+       <prtBounds left="159" top="87" width="10796" height="365"/>
+      </infos>
+      <txt ptr="0x7fbf40102d70" id="347" symbol="11SwTextFrame" upper="346" txtNodeIndex="351">
+       <infos>
+        <bounds left="1141" top="78551" width="10796" height="280"/>
+        <prtBounds left="0" top="0" width="10796" height="280"/>
+       </infos>
+Printgames.ru       <Finish/>
+      </txt>
+     </fly>
+    </anchored>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7fbf4011eba0" id="224" symbol="11SwTextFrame" next="225" prev="223" upper="486" txtNodeIndex="628">
+    <infos>
+     <bounds left="1004" top="78856" width="10800" height="535"/>
+     <prtBounds left="0" top="325" width="10800" height="210"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7fbf4011eca8" id="225" symbol="11SwTextFrame" prev="224" upper="486" txtNodeIndex="629">
+    <infos>
+     <bounds left="1004" top="79391" width="10800" height="441"/>
+     <prtBounds left="0" top="231" width="10800" height="210"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x43d1500" id="348" symbol="19SwFlyAtContentFrame" lower="349">
+      <infos>
+       <bounds left="1117" top="80081" width="11114" height="539"/>
+       <prtBounds left="159" top="87" width="10796" height="365"/>
+      </infos>
+      <txt ptr="0x7fbf40102e78" id="349" symbol="11SwTextFrame" upper="348" txtNodeIndex="354">
+       <infos>
+        <bounds left="1276" top="80168" width="10796" height="365"/>
+        <prtBounds left="0" top="0" width="10796" height="365"/>
+       </infos>
+Copyright © 2009                      www.eslgamesworld.com            Designed by Futonge Kisito       <Finish/>
+      </txt>
+     </fly>
+    </anchored>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
